@@ -1,4 +1,4 @@
-# Basic CH32V307 RISCV Makefile project
+# Basic CH32V203 RISCV Makefile project
 
 Requirements:
  - xpack riscv toolchain (riscv-none-embed-)
@@ -21,3 +21,7 @@ Unless otherwise stated files are licensed as BSD 2-Clause
 
 Files under `vendor/` are from openwch (https://github.com/openwch/ch32v307) Licensed under Apache-2.0
 Makefile is based on an example here: https://spin.atomicobject.com/2016/08/26/makefile-c-projects/
+
+# Reference
+modify from greg's CH32V307 makefile project
+https://github.com/gregdavill/CH32V307-makefile-example.git

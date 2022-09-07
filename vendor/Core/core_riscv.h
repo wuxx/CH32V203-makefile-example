@@ -1,23 +1,23 @@
 /********************************** (C) COPYRIGHT  *******************************
-* File Name          : core_riscv.h
-* Author             : WCH
-* Version            : V1.0.0
-* Date               : 2021/06/06
-* Description        : RISC-V Core Peripheral Access Layer Header File for CH32V30x
-* Copyright (c) 2021 Nanjing Qinheng Microelectronics Co., Ltd.
-* SPDX-License-Identifier: Apache-2.0
-*******************************************************************************/
+ * File Name          : core_riscv.h
+ * Author             : WCH
+ * Version            : V1.0.0
+ * Date               : 2021/06/06
+ * Description        : RISC-V Core Peripheral Access Layer Header File for CH32V20x
+ * Copyright (c) 2021 Nanjing Qinheng Microelectronics Co., Ltd.
+ * SPDX-License-Identifier: Apache-2.0
+ *******************************************************************************/
 #ifndef __CORE_RISCV_H__
 #define __CORE_RISCV_H__
 
 /* IO definitions */
 #ifdef __cplusplus
-  #define     __I     volatile                /* defines 'read only' permissions */
+  #define     __I     volatile                /*!< defines 'read only' permissions      */
 #else
-  #define     __I     volatile const          /* defines 'read only' permissions */
+  #define     __I     volatile const          /*!< defines 'read only' permissions     */
 #endif
-#define     __O     volatile                  /* defines 'write only' permissions */
-#define     __IO    volatile                  /* defines 'read / write' permissions */
+#define     __O     volatile                  /*!< defines 'write only' permissions     */
+#define     __IO    volatile                  /*!< defines 'read / write' permissions   */
 
 /* Standard Peripheral Library old types (maintained for legacy purpose) */
 typedef __I uint64_t vuc64;  /* Read Only */
@@ -60,7 +60,7 @@ typedef int32_t  s32;
 typedef int16_t s16;
 typedef int8_t  s8;
 
-typedef enum {ERROR = 0, SUCCESS = !ERROR} ErrorStatus;
+typedef enum {NoREADY = 0, READY = !NoREADY} ErrorStatus;
 
 typedef enum {DISABLE = 0, ENABLE = !DISABLE} FunctionalState;
 
@@ -113,6 +113,7 @@ typedef struct
 
 #define SysTick         ((SysTick_Type *) 0xE000F000)
 
+
 /*********************************************************************
  * @fn      __enable_irq
  *
@@ -150,11 +151,11 @@ RV_STATIC_INLINE void __NOP()
 }
 
 /*********************************************************************
- * @fn      NVIC_EnableIRQ
+ * @fn       NVIC_EnableIRQ
  *
- * @brief   Enable Interrupt
+ * @brief   Disable Interrupt
  *
- * @param   IRQn: Interrupt Numbers
+ * @param   IRQn - Interrupt Numbers
  *
  * @return  none
  */
@@ -164,11 +165,11 @@ RV_STATIC_INLINE void NVIC_EnableIRQ(IRQn_Type IRQn)
 }
 
 /*********************************************************************
- * @fn      NVIC_DisableIRQ
+ * @fn       NVIC_DisableIRQ
  *
  * @brief   Disable Interrupt
  *
- * @param   IRQn: Interrupt Numbers
+ * @param   IRQn - Interrupt Numbers
  *
  * @return  none
  */
@@ -178,14 +179,14 @@ RV_STATIC_INLINE void NVIC_DisableIRQ(IRQn_Type IRQn)
 }
 
 /*********************************************************************
- * @fn      NVIC_GetStatusIRQ
+ * @fn       NVIC_GetStatusIRQ
  *
  * @brief   Get Interrupt Enable State
  *
- * @param   IRQn: Interrupt Numbers
+ * @param   IRQn - Interrupt Numbers
  *
- * @return  1 - Interrupt Enable
- *          0 - Interrupt Disable
+ * @return  1 - 1: Interrupt Pending Enable
+ *                0 - Interrupt Pending Disable
  */
 RV_STATIC_INLINE uint32_t NVIC_GetStatusIRQ(IRQn_Type IRQn)
 {
@@ -197,10 +198,10 @@ RV_STATIC_INLINE uint32_t NVIC_GetStatusIRQ(IRQn_Type IRQn)
  *
  * @brief   Get Interrupt Pending State
  *
- * @param   IRQn: Interrupt Numbers
+ * @param   IRQn - Interrupt Numbers
  *
- * @return  1 - Interrupt Pending Enable
- *          0 - Interrupt Pending Disable
+ * @return  1 - 1: Interrupt Pending Enable
+ *                0 - Interrupt Pending Disable
  */
 RV_STATIC_INLINE uint32_t NVIC_GetPendingIRQ(IRQn_Type IRQn)
 {
@@ -212,9 +213,9 @@ RV_STATIC_INLINE uint32_t NVIC_GetPendingIRQ(IRQn_Type IRQn)
  *
  * @brief   Set Interrupt Pending
  *
- * @param   IRQn: Interrupt Numbers
+ * @param   IRQn - Interrupt Numbers
  *
- * @return  None
+ * @return  none
  */
 RV_STATIC_INLINE void NVIC_SetPendingIRQ(IRQn_Type IRQn)
 {
@@ -226,9 +227,9 @@ RV_STATIC_INLINE void NVIC_SetPendingIRQ(IRQn_Type IRQn)
  *
  * @brief   Clear Interrupt Pending
  *
- * @param   IRQn: Interrupt Numbers
+ * @param   IRQn - Interrupt Numbers
  *
- * @return  None
+ * @return  none
  */
 RV_STATIC_INLINE void NVIC_ClearPendingIRQ(IRQn_Type IRQn)
 {
@@ -240,10 +241,10 @@ RV_STATIC_INLINE void NVIC_ClearPendingIRQ(IRQn_Type IRQn)
  *
  * @brief   Get Interrupt Active State
  *
- * @param   IRQn: Interrupt Numbers
+ * @param   IRQn - Interrupt Numbers
  *
  * @return  1 - Interrupt Active
- *          0 - Interrupt No Active
+ *                0 - Interrupt No Active
  */
 RV_STATIC_INLINE uint32_t NVIC_GetActive(IRQn_Type IRQn)
 {
@@ -256,10 +257,10 @@ RV_STATIC_INLINE uint32_t NVIC_GetActive(IRQn_Type IRQn)
  * @brief   Set Interrupt Priority
  *
  * @param   IRQn - Interrupt Numbers
- *          priority -
- *              bit7 - pre-emption priority
- *              bit6~bit4 - subpriority
- * @return  None
+ *                  priority: bit7 - pre-emption priority
+ *                  bit6-bit4 - subpriority
+ *
+ * @return  none
  */
 RV_STATIC_INLINE void NVIC_SetPriority(IRQn_Type IRQn, uint8_t priority)
 {
@@ -267,11 +268,11 @@ RV_STATIC_INLINE void NVIC_SetPriority(IRQn_Type IRQn, uint8_t priority)
 }
 
 /*********************************************************************
- * @fn      __WFI
+ * @fn       __WFI
  *
  * @brief   Wait for Interrupt
  *
- * @return  None
+ * @return  none
  */
 __attribute__( ( always_inline ) ) RV_STATIC_INLINE void __WFI(void)
 {
@@ -280,11 +281,11 @@ __attribute__( ( always_inline ) ) RV_STATIC_INLINE void __WFI(void)
 }
 
 /*********************************************************************
- * @fn      __WFE
+ * @fn       __WFE
  *
  * @brief   Wait for Events
  *
- * @return  None
+ * @return  none
  */
 __attribute__( ( always_inline ) ) RV_STATIC_INLINE void __WFE(void)
 {
@@ -302,11 +303,12 @@ __attribute__( ( always_inline ) ) RV_STATIC_INLINE void __WFE(void)
  *
  * @brief   Set VTF Interrupt
  *
- * @param   add - VTF interrupt service function base address.
- *          IRQn -Interrupt Numbers
- *          num - VTF Interrupt Numbers
- *          NewState - DISABLE or ENABLE
- * @return  None
+ * @param   addr - VTF interrupt service function base address.
+ *                  IRQn - Interrupt Numbers
+ *                  num - VTF Interrupt Numbers
+ *                  NewState -  DISABLE or ENABLE
+ *
+ * @return  none
  */
 RV_STATIC_INLINE void SetVTFIRQ(uint32_t addr, IRQn_Type IRQn, uint8_t num, FunctionalState NewState){
   if(num > 3)  return ;
@@ -323,11 +325,11 @@ RV_STATIC_INLINE void SetVTFIRQ(uint32_t addr, IRQn_Type IRQn, uint8_t num, Func
 }
 
 /*********************************************************************
- * @fn      NVIC_SystemReset
+ * @fn       NVIC_SystemReset
  *
  * @brief   Initiate a system reset request
  *
- * @return  None
+ * @return  none
  */
 RV_STATIC_INLINE void NVIC_SystemReset(void)
 {
@@ -335,13 +337,8 @@ RV_STATIC_INLINE void NVIC_SystemReset(void)
 }
 
 
+
 /* Core_Exported_Functions */  
-extern uint32_t __get_FFLAGS(void);
-extern void __set_FFLAGS(uint32_t value);
-extern uint32_t __get_FRM(void);
-extern void __set_FRM(uint32_t value);
-extern uint32_t __get_FCSR(void);
-extern void __set_FCSR(uint32_t value);
 extern uint32_t __get_MSTATUS(void);
 extern void __set_MSTATUS(uint32_t value);
 extern uint32_t __get_MISA(void);
@@ -358,16 +355,6 @@ extern uint32_t __get_MCAUSE(void);
 extern void __set_MCAUSE(uint32_t value);
 extern uint32_t __get_MTVAL(void);
 extern void __set_MTVAL(uint32_t value);
-extern uint32_t __get_MIP(void);
-extern void __set_MIP(uint32_t value);
-extern uint32_t __get_MCYCLE(void);
-extern void __set_MCYCLE(uint32_t value);
-extern uint32_t __get_MCYCLEH(void);
-extern void __set_MCYCLEH(uint32_t value);
-extern uint32_t __get_MINSTRET(void);
-extern void __set_MINSTRET(uint32_t value);
-extern uint32_t __get_MINSTRETH(void);
-extern void __set_MINSTRETH(uint32_t value);
 extern uint32_t __get_MVENDORID(void);
 extern uint32_t __get_MARCHID(void);
 extern uint32_t __get_MIMPID(void);

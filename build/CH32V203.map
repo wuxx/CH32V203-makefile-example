@@ -1,0 +1,1902 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-printf.o)
+                              ./build/./app/main.c.o (printf)
+/home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-puts.o)
+                              ./build/./app/main.c.o (puts)
+/home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-wbuf.o)
+                              /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-puts.o) (__swbuf_r)
+/home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-wsetup.o)
+                              /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-puts.o) (__swsetup_r)
+/home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-fflush.o)
+                              /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-wbuf.o) (_fflush_r)
+/home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-findfp.o)
+                              /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-printf.o) (__sinit)
+/home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-fwalk.o)
+                              /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-findfp.o) (_fwalk)
+/home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-impure.o)
+                              /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-fflush.o) (_global_impure_ptr)
+/home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-makebuf.o)
+                              /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-wsetup.o) (__smakebuf_r)
+/home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-memset.o)
+                              /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-findfp.o) (memset)
+/home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-freer.o)
+                              /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-wsetup.o) (_free_r)
+/home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-mallocr.o)
+                              /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-findfp.o) (_malloc_r)
+/home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-vfprintf.o)
+                              /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-printf.o) (_vfprintf_r)
+/home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-sbrkr.o)
+                              /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+/home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-stdio.o)
+                              /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-findfp.o) (__sread)
+/home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-writer.o)
+                              /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-stdio.o) (_write_r)
+/home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-closer.o)
+                              /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-stdio.o) (_close_r)
+/home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-fstatr.o)
+                              /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-makebuf.o) (_fstat_r)
+/home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-fvwrite.o)
+                              /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-vfprintf.o) (__sfvwrite_r)
+/home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-isattyr.o)
+                              /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-makebuf.o) (_isatty_r)
+/home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-lseekr.o)
+                              /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-stdio.o) (_lseek_r)
+/home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-memchr.o)
+                              /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-vfprintf.o) (memchr)
+/home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-memcpy.o)
+                              /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-fvwrite.o) (memcpy)
+/home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-memmove-stub.o)
+                              /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-fvwrite.o) (memmove)
+/home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-mlock.o)
+                              /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-freer.o) (__malloc_lock)
+/home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-reallocr.o)
+                              /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-fvwrite.o) (_realloc_r)
+/home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-vfprintf_i.o)
+                              /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-vfprintf.o) (_printf_i)
+/home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-readr.o)
+                              /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-stdio.o) (_read_r)
+/home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-reent.o)
+                              /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-sbrkr.o) (errno)
+/home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-msizer.o)
+                              /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-reallocr.o) (_malloc_usable_size_r)
+/home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libnosys.a(close.o)
+                              /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-closer.o) (_close)
+/home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libnosys.a(fstat.o)
+                              /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-fstatr.o) (_fstat)
+/home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libnosys.a(isatty.o)
+                              /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-isattyr.o) (_isatty)
+/home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libnosys.a(lseek.o)
+                              /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-lseekr.o) (_lseek)
+/home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libnosys.a(read.o)
+                              /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-readr.o) (_read)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 ./build/./app/main.c.o
+ .data          0x0000000000000000        0x0 ./build/./app/main.c.o
+ .bss           0x0000000000000000        0x0 ./build/./app/main.c.o
+ .text          0x0000000000000000        0x0 ./build/./vendor/Core/core_riscv.c.o
+ .data          0x0000000000000000        0x0 ./build/./vendor/Core/core_riscv.c.o
+ .bss           0x0000000000000000        0x0 ./build/./vendor/Core/core_riscv.c.o
+ .text.__get_MSTATUS
+                0x0000000000000000        0x6 ./build/./vendor/Core/core_riscv.c.o
+ .text.__set_MSTATUS
+                0x0000000000000000        0x6 ./build/./vendor/Core/core_riscv.c.o
+ .text.__get_MISA
+                0x0000000000000000        0x6 ./build/./vendor/Core/core_riscv.c.o
+ .text.__set_MISA
+                0x0000000000000000        0x6 ./build/./vendor/Core/core_riscv.c.o
+ .text.__get_MIE
+                0x0000000000000000        0x6 ./build/./vendor/Core/core_riscv.c.o
+ .text.__set_MIE
+                0x0000000000000000        0x6 ./build/./vendor/Core/core_riscv.c.o
+ .text.__get_MTVEC
+                0x0000000000000000        0x6 ./build/./vendor/Core/core_riscv.c.o
+ .text.__set_MTVEC
+                0x0000000000000000        0x6 ./build/./vendor/Core/core_riscv.c.o
+ .text.__get_MSCRATCH
+                0x0000000000000000        0x6 ./build/./vendor/Core/core_riscv.c.o
+ .text.__set_MSCRATCH
+                0x0000000000000000        0x6 ./build/./vendor/Core/core_riscv.c.o
+ .text.__get_MEPC
+                0x0000000000000000        0x6 ./build/./vendor/Core/core_riscv.c.o
+ .text.__set_MEPC
+                0x0000000000000000        0x6 ./build/./vendor/Core/core_riscv.c.o
+ .text.__get_MCAUSE
+                0x0000000000000000        0x6 ./build/./vendor/Core/core_riscv.c.o
+ .text.__set_MCAUSE
+                0x0000000000000000        0x6 ./build/./vendor/Core/core_riscv.c.o
+ .text.__get_MTVAL
+                0x0000000000000000        0x6 ./build/./vendor/Core/core_riscv.c.o
+ .text.__set_MTVAL
+                0x0000000000000000        0x6 ./build/./vendor/Core/core_riscv.c.o
+ .text.__get_MVENDORID
+                0x0000000000000000        0x6 ./build/./vendor/Core/core_riscv.c.o
+ .text.__get_MARCHID
+                0x0000000000000000        0x6 ./build/./vendor/Core/core_riscv.c.o
+ .text.__get_MIMPID
+                0x0000000000000000        0x6 ./build/./vendor/Core/core_riscv.c.o
+ .text.__get_MHARTID
+                0x0000000000000000        0x6 ./build/./vendor/Core/core_riscv.c.o
+ .text.__get_SP
+                0x0000000000000000        0x4 ./build/./vendor/Core/core_riscv.c.o
+ .debug_info    0x0000000000000000      0x3c7 ./build/./vendor/Core/core_riscv.c.o
+ .debug_abbrev  0x0000000000000000       0xe0 ./build/./vendor/Core/core_riscv.c.o
+ .debug_aranges
+                0x0000000000000000       0xc0 ./build/./vendor/Core/core_riscv.c.o
+ .debug_ranges  0x0000000000000000       0xb0 ./build/./vendor/Core/core_riscv.c.o
+ .debug_line    0x0000000000000000      0x48e ./build/./vendor/Core/core_riscv.c.o
+ .debug_str     0x0000000000000000      0x2ad ./build/./vendor/Core/core_riscv.c.o
+ .comment       0x0000000000000000       0x35 ./build/./vendor/Core/core_riscv.c.o
+ .debug_frame   0x0000000000000000      0x160 ./build/./vendor/Core/core_riscv.c.o
+ .text          0x0000000000000000        0x0 ./build/./vendor/Debug/debug.c.o
+ .data          0x0000000000000000        0x0 ./build/./vendor/Debug/debug.c.o
+ .bss           0x0000000000000000        0x0 ./build/./vendor/Debug/debug.c.o
+ .text.Delay_Us
+                0x0000000000000000       0x3a ./build/./vendor/Debug/debug.c.o
+ .text          0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_exti.c.o
+ .data          0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_exti.c.o
+ .bss           0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_exti.c.o
+ .text.EXTI_DeInit
+                0x0000000000000000       0x22 ./build/./vendor/Peripheral/src/ch32v20x_exti.c.o
+ .text.EXTI_Init
+                0x0000000000000000       0x6a ./build/./vendor/Peripheral/src/ch32v20x_exti.c.o
+ .text.EXTI_StructInit
+                0x0000000000000000       0x12 ./build/./vendor/Peripheral/src/ch32v20x_exti.c.o
+ .text.EXTI_GenerateSWInterrupt
+                0x0000000000000000       0x10 ./build/./vendor/Peripheral/src/ch32v20x_exti.c.o
+ .text.EXTI_GetFlagStatus
+                0x0000000000000000       0x12 ./build/./vendor/Peripheral/src/ch32v20x_exti.c.o
+ .text.EXTI_ClearFlag
+                0x0000000000000000        0xc ./build/./vendor/Peripheral/src/ch32v20x_exti.c.o
+ .text.EXTI_GetITStatus
+                0x0000000000000000       0x1e ./build/./vendor/Peripheral/src/ch32v20x_exti.c.o
+ .text.EXTI_ClearITPendingBit
+                0x0000000000000000        0xc ./build/./vendor/Peripheral/src/ch32v20x_exti.c.o
+ .debug_info    0x0000000000000000      0x35b ./build/./vendor/Peripheral/src/ch32v20x_exti.c.o
+ .debug_abbrev  0x0000000000000000      0x1a5 ./build/./vendor/Peripheral/src/ch32v20x_exti.c.o
+ .debug_loc     0x0000000000000000      0x146 ./build/./vendor/Peripheral/src/ch32v20x_exti.c.o
+ .debug_aranges
+                0x0000000000000000       0x50 ./build/./vendor/Peripheral/src/ch32v20x_exti.c.o
+ .debug_ranges  0x0000000000000000       0x40 ./build/./vendor/Peripheral/src/ch32v20x_exti.c.o
+ .debug_line    0x0000000000000000      0x4be ./build/./vendor/Peripheral/src/ch32v20x_exti.c.o
+ .debug_str     0x0000000000000000      0x395 ./build/./vendor/Peripheral/src/ch32v20x_exti.c.o
+ .comment       0x0000000000000000       0x35 ./build/./vendor/Peripheral/src/ch32v20x_exti.c.o
+ .debug_frame   0x0000000000000000       0x90 ./build/./vendor/Peripheral/src/ch32v20x_exti.c.o
+ .text          0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_i2c.c.o
+ .data          0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_i2c.c.o
+ .bss           0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_i2c.c.o
+ .text.I2C_DeInit
+                0x0000000000000000       0x44 ./build/./vendor/Peripheral/src/ch32v20x_i2c.c.o
+ .text.I2C_Init
+                0x0000000000000000      0x130 ./build/./vendor/Peripheral/src/ch32v20x_i2c.c.o
+ .text.I2C_StructInit
+                0x0000000000000000       0x1a ./build/./vendor/Peripheral/src/ch32v20x_i2c.c.o
+ .text.I2C_Cmd  0x0000000000000000       0x1c ./build/./vendor/Peripheral/src/ch32v20x_i2c.c.o
+ .text.I2C_DMACmd
+                0x0000000000000000       0x26 ./build/./vendor/Peripheral/src/ch32v20x_i2c.c.o
+ .text.I2C_DMALastTransferCmd
+                0x0000000000000000       0x1c ./build/./vendor/Peripheral/src/ch32v20x_i2c.c.o
+ .text.I2C_GenerateSTART
+                0x0000000000000000       0x1e ./build/./vendor/Peripheral/src/ch32v20x_i2c.c.o
+ .text.I2C_GenerateSTOP
+                0x0000000000000000       0x1e ./build/./vendor/Peripheral/src/ch32v20x_i2c.c.o
+ .text.I2C_AcknowledgeConfig
+                0x0000000000000000       0x1e ./build/./vendor/Peripheral/src/ch32v20x_i2c.c.o
+ .text.I2C_OwnAddress2Config
+                0x0000000000000000       0x18 ./build/./vendor/Peripheral/src/ch32v20x_i2c.c.o
+ .text.I2C_DualAddressCmd
+                0x0000000000000000       0x1c ./build/./vendor/Peripheral/src/ch32v20x_i2c.c.o
+ .text.I2C_GeneralCallCmd
+                0x0000000000000000       0x1e ./build/./vendor/Peripheral/src/ch32v20x_i2c.c.o
+ .text.I2C_ITConfig
+                0x0000000000000000       0x1a ./build/./vendor/Peripheral/src/ch32v20x_i2c.c.o
+ .text.I2C_SendData
+                0x0000000000000000        0x6 ./build/./vendor/Peripheral/src/ch32v20x_i2c.c.o
+ .text.I2C_ReceiveData
+                0x0000000000000000        0xa ./build/./vendor/Peripheral/src/ch32v20x_i2c.c.o
+ .text.I2C_Send7bitAddress
+                0x0000000000000000       0x14 ./build/./vendor/Peripheral/src/ch32v20x_i2c.c.o
+ .text.I2C_ReadRegister
+                0x0000000000000000       0x1a ./build/./vendor/Peripheral/src/ch32v20x_i2c.c.o
+ .text.I2C_SoftwareResetCmd
+                0x0000000000000000       0x1a ./build/./vendor/Peripheral/src/ch32v20x_i2c.c.o
+ .text.I2C_NACKPositionConfig
+                0x0000000000000000       0x2a ./build/./vendor/Peripheral/src/ch32v20x_i2c.c.o
+ .text.I2C_SMBusAlertConfig
+                0x0000000000000000       0x28 ./build/./vendor/Peripheral/src/ch32v20x_i2c.c.o
+ .text.I2C_TransmitPEC
+                0x0000000000000000       0x1c ./build/./vendor/Peripheral/src/ch32v20x_i2c.c.o
+ .text.I2C_PECPositionConfig
+                0x0000000000000000        0x8 ./build/./vendor/Peripheral/src/ch32v20x_i2c.c.o
+ .text.I2C_CalculatePEC
+                0x0000000000000000       0x1e ./build/./vendor/Peripheral/src/ch32v20x_i2c.c.o
+ .text.I2C_GetPEC
+                0x0000000000000000        0xc ./build/./vendor/Peripheral/src/ch32v20x_i2c.c.o
+ .text.I2C_ARPCmd
+                0x0000000000000000       0x1c ./build/./vendor/Peripheral/src/ch32v20x_i2c.c.o
+ .text.I2C_StretchClockCmd
+                0x0000000000000000       0x1e ./build/./vendor/Peripheral/src/ch32v20x_i2c.c.o
+ .text.I2C_FastModeDutyCycleConfig
+                0x0000000000000000       0x28 ./build/./vendor/Peripheral/src/ch32v20x_i2c.c.o
+ .text.I2C_CheckEvent
+                0x0000000000000000       0x1e ./build/./vendor/Peripheral/src/ch32v20x_i2c.c.o
+ .text.I2C_GetLastEvent
+                0x0000000000000000       0x16 ./build/./vendor/Peripheral/src/ch32v20x_i2c.c.o
+ .text.I2C_GetFlagStatus
+                0x0000000000000000       0x34 ./build/./vendor/Peripheral/src/ch32v20x_i2c.c.o
+ .text.I2C_ClearFlag
+                0x0000000000000000        0xe ./build/./vendor/Peripheral/src/ch32v20x_i2c.c.o
+ .text.I2C_GetITStatus
+                0x0000000000000000       0x24 ./build/./vendor/Peripheral/src/ch32v20x_i2c.c.o
+ .text.I2C_ClearITPendingBit
+                0x0000000000000000        0xe ./build/./vendor/Peripheral/src/ch32v20x_i2c.c.o
+ .debug_info    0x0000000000000000      0xbcf ./build/./vendor/Peripheral/src/ch32v20x_i2c.c.o
+ .debug_abbrev  0x0000000000000000      0x275 ./build/./vendor/Peripheral/src/ch32v20x_i2c.c.o
+ .debug_loc     0x0000000000000000      0x71c ./build/./vendor/Peripheral/src/ch32v20x_i2c.c.o
+ .debug_aranges
+                0x0000000000000000      0x110 ./build/./vendor/Peripheral/src/ch32v20x_i2c.c.o
+ .debug_ranges  0x0000000000000000      0x100 ./build/./vendor/Peripheral/src/ch32v20x_i2c.c.o
+ .debug_line    0x0000000000000000     0x1047 ./build/./vendor/Peripheral/src/ch32v20x_i2c.c.o
+ .debug_str     0x0000000000000000      0x6e8 ./build/./vendor/Peripheral/src/ch32v20x_i2c.c.o
+ .comment       0x0000000000000000       0x35 ./build/./vendor/Peripheral/src/ch32v20x_i2c.c.o
+ .debug_frame   0x0000000000000000      0x260 ./build/./vendor/Peripheral/src/ch32v20x_i2c.c.o
+ .text          0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_usart.c.o
+ .data          0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_usart.c.o
+ .bss           0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_usart.c.o
+ .text.USART_DeInit
+                0x0000000000000000       0x9e ./build/./vendor/Peripheral/src/ch32v20x_usart.c.o
+ .text.USART_StructInit
+                0x0000000000000000       0x18 ./build/./vendor/Peripheral/src/ch32v20x_usart.c.o
+ .text.USART_ClockInit
+                0x0000000000000000       0x32 ./build/./vendor/Peripheral/src/ch32v20x_usart.c.o
+ .text.USART_ClockStructInit
+                0x0000000000000000       0x12 ./build/./vendor/Peripheral/src/ch32v20x_usart.c.o
+ .text.USART_ITConfig
+                0x0000000000000000       0x36 ./build/./vendor/Peripheral/src/ch32v20x_usart.c.o
+ .text.USART_DMACmd
+                0x0000000000000000       0x1a ./build/./vendor/Peripheral/src/ch32v20x_usart.c.o
+ .text.USART_SetAddress
+                0x0000000000000000       0x22 ./build/./vendor/Peripheral/src/ch32v20x_usart.c.o
+ .text.USART_WakeUpConfig
+                0x0000000000000000       0x24 ./build/./vendor/Peripheral/src/ch32v20x_usart.c.o
+ .text.USART_ReceiverWakeUpCmd
+                0x0000000000000000       0x1c ./build/./vendor/Peripheral/src/ch32v20x_usart.c.o
+ .text.USART_LINBreakDetectLengthConfig
+                0x0000000000000000       0x24 ./build/./vendor/Peripheral/src/ch32v20x_usart.c.o
+ .text.USART_LINCmd
+                0x0000000000000000       0x1c ./build/./vendor/Peripheral/src/ch32v20x_usart.c.o
+ .text.USART_ReceiveData
+                0x0000000000000000        0xa ./build/./vendor/Peripheral/src/ch32v20x_usart.c.o
+ .text.USART_SendBreak
+                0x0000000000000000       0x12 ./build/./vendor/Peripheral/src/ch32v20x_usart.c.o
+ .text.USART_SetGuardTime
+                0x0000000000000000       0x1e ./build/./vendor/Peripheral/src/ch32v20x_usart.c.o
+ .text.USART_SetPrescaler
+                0x0000000000000000       0x24 ./build/./vendor/Peripheral/src/ch32v20x_usart.c.o
+ .text.USART_SmartCardCmd
+                0x0000000000000000       0x1e ./build/./vendor/Peripheral/src/ch32v20x_usart.c.o
+ .text.USART_SmartCardNACKCmd
+                0x0000000000000000       0x1c ./build/./vendor/Peripheral/src/ch32v20x_usart.c.o
+ .text.USART_HalfDuplexCmd
+                0x0000000000000000       0x1c ./build/./vendor/Peripheral/src/ch32v20x_usart.c.o
+ .text.USART_OverSampling8Cmd
+                0x0000000000000000       0x1a ./build/./vendor/Peripheral/src/ch32v20x_usart.c.o
+ .text.USART_OneBitMethodCmd
+                0x0000000000000000       0x26 ./build/./vendor/Peripheral/src/ch32v20x_usart.c.o
+ .text.USART_IrDAConfig
+                0x0000000000000000       0x22 ./build/./vendor/Peripheral/src/ch32v20x_usart.c.o
+ .text.USART_IrDACmd
+                0x0000000000000000       0x1c ./build/./vendor/Peripheral/src/ch32v20x_usart.c.o
+ .text.USART_ClearFlag
+                0x0000000000000000        0xe ./build/./vendor/Peripheral/src/ch32v20x_usart.c.o
+ .text.USART_GetITStatus
+                0x0000000000000000       0x4a ./build/./vendor/Peripheral/src/ch32v20x_usart.c.o
+ .text.USART_ClearITPendingBit
+                0x0000000000000000       0x16 ./build/./vendor/Peripheral/src/ch32v20x_usart.c.o
+ .text          0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_can.c.o
+ .data          0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_can.c.o
+ .bss           0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_can.c.o
+ .text.CAN_DeInit
+                0x0000000000000000       0x44 ./build/./vendor/Peripheral/src/ch32v20x_can.c.o
+ .text.CAN_Init
+                0x0000000000000000       0xf2 ./build/./vendor/Peripheral/src/ch32v20x_can.c.o
+ .text.CAN_FilterInit
+                0x0000000000000000      0x11a ./build/./vendor/Peripheral/src/ch32v20x_can.c.o
+ .text.CAN_StructInit
+                0x0000000000000000       0x26 ./build/./vendor/Peripheral/src/ch32v20x_can.c.o
+ .text.CAN_SlaveStartBank
+                0x0000000000000000       0x2c ./build/./vendor/Peripheral/src/ch32v20x_can.c.o
+ .text.CAN_DBGFreeze
+                0x0000000000000000       0x14 ./build/./vendor/Peripheral/src/ch32v20x_can.c.o
+ .text.CAN_TTComModeCmd
+                0x0000000000000000       0x4a ./build/./vendor/Peripheral/src/ch32v20x_can.c.o
+ .text.CAN_Transmit
+                0x0000000000000000       0xc8 ./build/./vendor/Peripheral/src/ch32v20x_can.c.o
+ .text.CAN_TransmitStatus
+                0x0000000000000000       0x60 ./build/./vendor/Peripheral/src/ch32v20x_can.c.o
+ .text.CAN_CancelTransmit
+                0x0000000000000000       0x28 ./build/./vendor/Peripheral/src/ch32v20x_can.c.o
+ .text.CAN_Receive
+                0x0000000000000000       0x92 ./build/./vendor/Peripheral/src/ch32v20x_can.c.o
+ .text.CAN_FIFORelease
+                0x0000000000000000       0x16 ./build/./vendor/Peripheral/src/ch32v20x_can.c.o
+ .text.CAN_MessagePending
+                0x0000000000000000       0x16 ./build/./vendor/Peripheral/src/ch32v20x_can.c.o
+ .text.CAN_OperatingModeRequest
+                0x0000000000000000       0x72 ./build/./vendor/Peripheral/src/ch32v20x_can.c.o
+ .text.CAN_Sleep
+                0x0000000000000000       0x16 ./build/./vendor/Peripheral/src/ch32v20x_can.c.o
+ .text.CAN_WakeUp
+                0x0000000000000000       0x1e ./build/./vendor/Peripheral/src/ch32v20x_can.c.o
+ .text.CAN_GetLastErrorCode
+                0x0000000000000000        0x8 ./build/./vendor/Peripheral/src/ch32v20x_can.c.o
+ .text.CAN_GetReceiveErrorCounter
+                0x0000000000000000        0x6 ./build/./vendor/Peripheral/src/ch32v20x_can.c.o
+ .text.CAN_GetLSBTransmitErrorCounter
+                0x0000000000000000        0xa ./build/./vendor/Peripheral/src/ch32v20x_can.c.o
+ .text.CAN_ITConfig
+                0x0000000000000000       0x12 ./build/./vendor/Peripheral/src/ch32v20x_can.c.o
+ .text.CAN_GetFlagStatus
+                0x0000000000000000       0x50 ./build/./vendor/Peripheral/src/ch32v20x_can.c.o
+ .text.CAN_ClearFlag
+                0x0000000000000000       0x40 ./build/./vendor/Peripheral/src/ch32v20x_can.c.o
+ .text.CAN_GetITStatus
+                0x0000000000000000       0xce ./build/./vendor/Peripheral/src/ch32v20x_can.c.o
+ .text.CAN_ClearITPendingBit
+                0x0000000000000000       0x98 ./build/./vendor/Peripheral/src/ch32v20x_can.c.o
+ .debug_info    0x0000000000000000      0xf01 ./build/./vendor/Peripheral/src/ch32v20x_can.c.o
+ .debug_abbrev  0x0000000000000000      0x2ea ./build/./vendor/Peripheral/src/ch32v20x_can.c.o
+ .debug_loc     0x0000000000000000      0x982 ./build/./vendor/Peripheral/src/ch32v20x_can.c.o
+ .debug_aranges
+                0x0000000000000000       0xd8 ./build/./vendor/Peripheral/src/ch32v20x_can.c.o
+ .debug_ranges  0x0000000000000000       0xf8 ./build/./vendor/Peripheral/src/ch32v20x_can.c.o
+ .debug_line    0x0000000000000000     0x1aa7 ./build/./vendor/Peripheral/src/ch32v20x_can.c.o
+ .debug_str     0x0000000000000000      0x7c3 ./build/./vendor/Peripheral/src/ch32v20x_can.c.o
+ .comment       0x0000000000000000       0x35 ./build/./vendor/Peripheral/src/ch32v20x_can.c.o
+ .debug_frame   0x0000000000000000      0x1a0 ./build/./vendor/Peripheral/src/ch32v20x_can.c.o
+ .text          0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_iwdg.c.o
+ .data          0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_iwdg.c.o
+ .bss           0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_iwdg.c.o
+ .text.IWDG_WriteAccessCmd
+                0x0000000000000000        0x8 ./build/./vendor/Peripheral/src/ch32v20x_iwdg.c.o
+ .text.IWDG_SetPrescaler
+                0x0000000000000000        0x8 ./build/./vendor/Peripheral/src/ch32v20x_iwdg.c.o
+ .text.IWDG_SetReload
+                0x0000000000000000        0x8 ./build/./vendor/Peripheral/src/ch32v20x_iwdg.c.o
+ .text.IWDG_ReloadCounter
+                0x0000000000000000        0xe ./build/./vendor/Peripheral/src/ch32v20x_iwdg.c.o
+ .text.IWDG_Enable
+                0x0000000000000000        0xe ./build/./vendor/Peripheral/src/ch32v20x_iwdg.c.o
+ .text.IWDG_GetFlagStatus
+                0x0000000000000000        0xe ./build/./vendor/Peripheral/src/ch32v20x_iwdg.c.o
+ .debug_info    0x0000000000000000      0x201 ./build/./vendor/Peripheral/src/ch32v20x_iwdg.c.o
+ .debug_abbrev  0x0000000000000000      0x135 ./build/./vendor/Peripheral/src/ch32v20x_iwdg.c.o
+ .debug_loc     0x0000000000000000       0x68 ./build/./vendor/Peripheral/src/ch32v20x_iwdg.c.o
+ .debug_aranges
+                0x0000000000000000       0x48 ./build/./vendor/Peripheral/src/ch32v20x_iwdg.c.o
+ .debug_ranges  0x0000000000000000       0x38 ./build/./vendor/Peripheral/src/ch32v20x_iwdg.c.o
+ .debug_line    0x0000000000000000      0x26f ./build/./vendor/Peripheral/src/ch32v20x_iwdg.c.o
+ .debug_str     0x0000000000000000      0x2a7 ./build/./vendor/Peripheral/src/ch32v20x_iwdg.c.o
+ .comment       0x0000000000000000       0x35 ./build/./vendor/Peripheral/src/ch32v20x_iwdg.c.o
+ .debug_frame   0x0000000000000000       0x70 ./build/./vendor/Peripheral/src/ch32v20x_iwdg.c.o
+ .text          0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_misc.c.o
+ .data          0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_misc.c.o
+ .bss           0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_misc.c.o
+ .text.NVIC_Init
+                0x0000000000000000       0xb8 ./build/./vendor/Peripheral/src/ch32v20x_misc.c.o
+ .text          0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_flash.c.o
+ .data          0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_flash.c.o
+ .bss           0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_flash.c.o
+ .text.FLASH_Unlock
+                0x0000000000000000       0x1a ./build/./vendor/Peripheral/src/ch32v20x_flash.c.o
+ .text.FLASH_UnlockBank1
+                0x0000000000000000        0x8 ./build/./vendor/Peripheral/src/ch32v20x_flash.c.o
+ .text.FLASH_Lock
+                0x0000000000000000        0xe ./build/./vendor/Peripheral/src/ch32v20x_flash.c.o
+ .text.FLASH_LockBank1
+                0x0000000000000000        0x8 ./build/./vendor/Peripheral/src/ch32v20x_flash.c.o
+ .text.FLASH_GetUserOptionByte
+                0x0000000000000000        0xa ./build/./vendor/Peripheral/src/ch32v20x_flash.c.o
+ .text.FLASH_GetWriteProtectionOptionByte
+                0x0000000000000000        0x8 ./build/./vendor/Peripheral/src/ch32v20x_flash.c.o
+ .text.FLASH_GetReadOutProtectionStatus
+                0x0000000000000000        0xc ./build/./vendor/Peripheral/src/ch32v20x_flash.c.o
+ .text.FLASH_ITConfig
+                0x0000000000000000       0x1e ./build/./vendor/Peripheral/src/ch32v20x_flash.c.o
+ .text.FLASH_GetFlagStatus
+                0x0000000000000000       0x1e ./build/./vendor/Peripheral/src/ch32v20x_flash.c.o
+ .text.FLASH_ClearFlag
+                0x0000000000000000        0x8 ./build/./vendor/Peripheral/src/ch32v20x_flash.c.o
+ .text.FLASH_GetStatus
+                0x0000000000000000       0x1e ./build/./vendor/Peripheral/src/ch32v20x_flash.c.o
+ .text.FLASH_GetBank1Status
+                0x0000000000000000       0x1e ./build/./vendor/Peripheral/src/ch32v20x_flash.c.o
+ .text.FLASH_WaitForLastOperation
+                0x0000000000000000       0x36 ./build/./vendor/Peripheral/src/ch32v20x_flash.c.o
+ .text.FLASH_ErasePage
+                0x0000000000000000       0x4e ./build/./vendor/Peripheral/src/ch32v20x_flash.c.o
+ .text.FLASH_EraseAllPages
+                0x0000000000000000       0x46 ./build/./vendor/Peripheral/src/ch32v20x_flash.c.o
+ .text.FLASH_EraseAllBank1Pages
+                0x0000000000000000        0x8 ./build/./vendor/Peripheral/src/ch32v20x_flash.c.o
+ .text.FLASH_EraseOptionBytes
+                0x0000000000000000       0xf8 ./build/./vendor/Peripheral/src/ch32v20x_flash.c.o
+ .text.FLASH_ProgramWord
+                0x0000000000000000       0x70 ./build/./vendor/Peripheral/src/ch32v20x_flash.c.o
+ .text.FLASH_ProgramHalfWord
+                0x0000000000000000       0x4a ./build/./vendor/Peripheral/src/ch32v20x_flash.c.o
+ .text.FLASH_ProgramOptionByteData
+                0x0000000000000000      0x134 ./build/./vendor/Peripheral/src/ch32v20x_flash.c.o
+ .text.FLASH_EnableWriteProtection
+                0x0000000000000000      0x138 ./build/./vendor/Peripheral/src/ch32v20x_flash.c.o
+ .text.FLASH_ReadOutProtection
+                0x0000000000000000      0x11c ./build/./vendor/Peripheral/src/ch32v20x_flash.c.o
+ .text.FLASH_UserOptionByteConfig
+                0x0000000000000000      0x128 ./build/./vendor/Peripheral/src/ch32v20x_flash.c.o
+ .text.FLASH_WaitForLastBank1Operation
+                0x0000000000000000        0x8 ./build/./vendor/Peripheral/src/ch32v20x_flash.c.o
+ .text.FLASH_Unlock_Fast
+                0x0000000000000000       0x1e ./build/./vendor/Peripheral/src/ch32v20x_flash.c.o
+ .text.FLASH_Lock_Fast
+                0x0000000000000000        0x8 ./build/./vendor/Peripheral/src/ch32v20x_flash.c.o
+ .text.FLASH_ErasePage_Fast
+                0x0000000000000000       0x2e ./build/./vendor/Peripheral/src/ch32v20x_flash.c.o
+ .text.FLASH_EraseBlock_32K_Fast
+                0x0000000000000000       0x30 ./build/./vendor/Peripheral/src/ch32v20x_flash.c.o
+ .text.FLASH_EraseBlock_64K_Fast
+                0x0000000000000000       0x30 ./build/./vendor/Peripheral/src/ch32v20x_flash.c.o
+ .text.FLASH_ProgramPage_Fast
+                0x0000000000000000       0x64 ./build/./vendor/Peripheral/src/ch32v20x_flash.c.o
+ .text.FLASH_Access_Clock_Cfg
+                0x0000000000000000       0x18 ./build/./vendor/Peripheral/src/ch32v20x_flash.c.o
+ .text.FLASH_Enhance_Mode
+                0x0000000000000000       0x2e ./build/./vendor/Peripheral/src/ch32v20x_flash.c.o
+ .text.FLASH_GetMACAddress
+                0x0000000000000000       0x32 ./build/./vendor/Peripheral/src/ch32v20x_flash.c.o
+ .debug_info    0x0000000000000000      0xb09 ./build/./vendor/Peripheral/src/ch32v20x_flash.c.o
+ .debug_abbrev  0x0000000000000000      0x313 ./build/./vendor/Peripheral/src/ch32v20x_flash.c.o
+ .debug_loc     0x0000000000000000      0x816 ./build/./vendor/Peripheral/src/ch32v20x_flash.c.o
+ .debug_aranges
+                0x0000000000000000       0xf8 ./build/./vendor/Peripheral/src/ch32v20x_flash.c.o
+ .debug_ranges  0x0000000000000000       0xe8 ./build/./vendor/Peripheral/src/ch32v20x_flash.c.o
+ .debug_line    0x0000000000000000     0x1eae ./build/./vendor/Peripheral/src/ch32v20x_flash.c.o
+ .debug_str     0x0000000000000000      0x69d ./build/./vendor/Peripheral/src/ch32v20x_flash.c.o
+ .comment       0x0000000000000000       0x35 ./build/./vendor/Peripheral/src/ch32v20x_flash.c.o
+ .debug_frame   0x0000000000000000      0x308 ./build/./vendor/Peripheral/src/ch32v20x_flash.c.o
+ .text          0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_bkp.c.o
+ .data          0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_bkp.c.o
+ .bss           0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_bkp.c.o
+ .text.BKP_DeInit
+                0x0000000000000000       0x1c ./build/./vendor/Peripheral/src/ch32v20x_bkp.c.o
+ .text.BKP_TamperPinLevelConfig
+                0x0000000000000000       0x24 ./build/./vendor/Peripheral/src/ch32v20x_bkp.c.o
+ .text.BKP_TamperPinCmd
+                0x0000000000000000       0x24 ./build/./vendor/Peripheral/src/ch32v20x_bkp.c.o
+ .text.BKP_ITConfig
+                0x0000000000000000       0x24 ./build/./vendor/Peripheral/src/ch32v20x_bkp.c.o
+ .text.BKP_RTCOutputConfig
+                0x0000000000000000       0x18 ./build/./vendor/Peripheral/src/ch32v20x_bkp.c.o
+ .text.BKP_SetRTCCalibrationValue
+                0x0000000000000000       0x18 ./build/./vendor/Peripheral/src/ch32v20x_bkp.c.o
+ .text.BKP_WriteBackupRegister
+                0x0000000000000000       0x1c ./build/./vendor/Peripheral/src/ch32v20x_bkp.c.o
+ .text.BKP_ReadBackupRegister
+                0x0000000000000000       0x22 ./build/./vendor/Peripheral/src/ch32v20x_bkp.c.o
+ .text.BKP_GetFlagStatus
+                0x0000000000000000        0xe ./build/./vendor/Peripheral/src/ch32v20x_bkp.c.o
+ .text.BKP_ClearFlag
+                0x0000000000000000       0x16 ./build/./vendor/Peripheral/src/ch32v20x_bkp.c.o
+ .text.BKP_GetITStatus
+                0x0000000000000000        0xe ./build/./vendor/Peripheral/src/ch32v20x_bkp.c.o
+ .text.BKP_ClearITPendingBit
+                0x0000000000000000       0x16 ./build/./vendor/Peripheral/src/ch32v20x_bkp.c.o
+ .debug_info    0x0000000000000000      0x7d0 ./build/./vendor/Peripheral/src/ch32v20x_bkp.c.o
+ .debug_abbrev  0x0000000000000000      0x185 ./build/./vendor/Peripheral/src/ch32v20x_bkp.c.o
+ .debug_loc     0x0000000000000000       0x80 ./build/./vendor/Peripheral/src/ch32v20x_bkp.c.o
+ .debug_aranges
+                0x0000000000000000       0x78 ./build/./vendor/Peripheral/src/ch32v20x_bkp.c.o
+ .debug_ranges  0x0000000000000000       0x68 ./build/./vendor/Peripheral/src/ch32v20x_bkp.c.o
+ .debug_line    0x0000000000000000      0x562 ./build/./vendor/Peripheral/src/ch32v20x_bkp.c.o
+ .debug_str     0x0000000000000000      0x6ad ./build/./vendor/Peripheral/src/ch32v20x_bkp.c.o
+ .comment       0x0000000000000000       0x35 ./build/./vendor/Peripheral/src/ch32v20x_bkp.c.o
+ .debug_frame   0x0000000000000000       0xec ./build/./vendor/Peripheral/src/ch32v20x_bkp.c.o
+ .text          0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_dbgmcu.c.o
+ .data          0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_dbgmcu.c.o
+ .bss           0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_dbgmcu.c.o
+ .text.DBGMCU_GetREVID
+                0x0000000000000000        0xa ./build/./vendor/Peripheral/src/ch32v20x_dbgmcu.c.o
+ .text.DBGMCU_GetDEVID
+                0x0000000000000000        0xe ./build/./vendor/Peripheral/src/ch32v20x_dbgmcu.c.o
+ .debug_info    0x0000000000000000       0xb7 ./build/./vendor/Peripheral/src/ch32v20x_dbgmcu.c.o
+ .debug_abbrev  0x0000000000000000       0x55 ./build/./vendor/Peripheral/src/ch32v20x_dbgmcu.c.o
+ .debug_aranges
+                0x0000000000000000       0x28 ./build/./vendor/Peripheral/src/ch32v20x_dbgmcu.c.o
+ .debug_ranges  0x0000000000000000       0x18 ./build/./vendor/Peripheral/src/ch32v20x_dbgmcu.c.o
+ .debug_line    0x0000000000000000      0x165 ./build/./vendor/Peripheral/src/ch32v20x_dbgmcu.c.o
+ .debug_str     0x0000000000000000      0x1ce ./build/./vendor/Peripheral/src/ch32v20x_dbgmcu.c.o
+ .comment       0x0000000000000000       0x35 ./build/./vendor/Peripheral/src/ch32v20x_dbgmcu.c.o
+ .debug_frame   0x0000000000000000       0x30 ./build/./vendor/Peripheral/src/ch32v20x_dbgmcu.c.o
+ .text          0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .data          0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .bss           0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .text.ADC_DeInit
+                0x0000000000000000       0x58 ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .text.ADC_Init
+                0x0000000000000000       0x58 ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .text.ADC_StructInit
+                0x0000000000000000       0x1c ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .text.ADC_Cmd  0x0000000000000000       0x10 ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .text.ADC_DMACmd
+                0x0000000000000000       0x12 ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .text.ADC_ITConfig
+                0x0000000000000000       0x16 ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .text.ADC_ResetCalibration
+                0x0000000000000000        0xa ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .text.ADC_GetResetCalibrationStatus
+                0x0000000000000000        0x8 ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .text.ADC_StartCalibration
+                0x0000000000000000        0xa ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .text.ADC_GetCalibrationStatus
+                0x0000000000000000        0x8 ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .text.ADC_SoftwareStartConvCmd
+                0x0000000000000000       0x18 ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .text.ADC_GetSoftwareStartConvStatus
+                0x0000000000000000        0x8 ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .text.ADC_DiscModeChannelCountConfig
+                0x0000000000000000       0x12 ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .text.ADC_DiscModeCmd
+                0x0000000000000000       0x1a ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .text.ADC_RegularChannelConfig
+                0x0000000000000000       0xb8 ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .text.ADC_ExternalTrigConvCmd
+                0x0000000000000000       0x18 ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .text.ADC_GetConversionValue
+                0x0000000000000000        0x8 ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .text.ADC_GetDualModeConversionValue
+                0x0000000000000000        0xa ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .text.ADC_AutoInjectedConvCmd
+                0x0000000000000000       0x12 ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .text.ADC_InjectedDiscModeCmd
+                0x0000000000000000       0x14 ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .text.ADC_ExternalTrigInjectedConvConfig
+                0x0000000000000000        0xe ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .text.ADC_ExternalTrigInjectedConvCmd
+                0x0000000000000000       0x14 ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .text.ADC_SoftwareStartInjectedConvCmd
+                0x0000000000000000       0x18 ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .text.ADC_GetSoftwareStartInjectedConvCmdStatus
+                0x0000000000000000        0x8 ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .text.ADC_InjectedChannelConfig
+                0x0000000000000000       0x7a ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .text.ADC_InjectedSequencerLengthConfig
+                0x0000000000000000       0x14 ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .text.ADC_SetInjectedOffset
+                0x0000000000000000       0x14 ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .text.ADC_GetInjectedConversionValue
+                0x0000000000000000       0x1c ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .text.ADC_AnalogWatchdogCmd
+                0x0000000000000000       0x12 ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .text.ADC_AnalogWatchdogThresholdsConfig
+                0x0000000000000000        0x6 ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .text.ADC_AnalogWatchdogSingleChannelConfig
+                0x0000000000000000        0xa ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .text.ADC_TempSensorVrefintCmd
+                0x0000000000000000       0x20 ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .text.ADC_GetFlagStatus
+                0x0000000000000000        0xa ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .text.ADC_ClearFlag
+                0x0000000000000000        0x8 ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .text.ADC_GetITStatus
+                0x0000000000000000       0x1a ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .text.ADC_ClearITPendingBit
+                0x0000000000000000        0xa ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .text.TempSensor_Volt_To_Temper
+                0x0000000000000000       0x2a ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .text.ADC_BufferCmd
+                0x0000000000000000       0x18 ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .text.Get_CalibrationValue
+                0x0000000000000000      0x2de ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .debug_info    0x0000000000000000      0xe3a ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .debug_abbrev  0x0000000000000000      0x249 ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .debug_loc     0x0000000000000000      0xa94 ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .debug_aranges
+                0x0000000000000000      0x150 ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .debug_ranges  0x0000000000000000      0x140 ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .debug_line    0x0000000000000000     0x1ad8 ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .debug_str     0x0000000000000000      0x81f ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .comment       0x0000000000000000       0x35 ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .debug_frame   0x0000000000000000      0x2bc ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+ .text          0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_spi.c.o
+ .data          0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_spi.c.o
+ .bss           0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_spi.c.o
+ .text.SPI_I2S_DeInit
+                0x0000000000000000       0x56 ./build/./vendor/Peripheral/src/ch32v20x_spi.c.o
+ .text.SPI_Init
+                0x0000000000000000       0x62 ./build/./vendor/Peripheral/src/ch32v20x_spi.c.o
+ .text.I2S_Init
+                0x0000000000000000       0xe6 ./build/./vendor/Peripheral/src/ch32v20x_spi.c.o
+ .text.SPI_StructInit
+                0x0000000000000000       0x24 ./build/./vendor/Peripheral/src/ch32v20x_spi.c.o
+ .text.I2S_StructInit
+                0x0000000000000000       0x12 ./build/./vendor/Peripheral/src/ch32v20x_spi.c.o
+ .text.SPI_Cmd  0x0000000000000000       0x1e ./build/./vendor/Peripheral/src/ch32v20x_spi.c.o
+ .text.I2S_Cmd  0x0000000000000000       0x1e ./build/./vendor/Peripheral/src/ch32v20x_spi.c.o
+ .text.SPI_I2S_ITConfig
+                0x0000000000000000       0x28 ./build/./vendor/Peripheral/src/ch32v20x_spi.c.o
+ .text.SPI_I2S_DMACmd
+                0x0000000000000000       0x1a ./build/./vendor/Peripheral/src/ch32v20x_spi.c.o
+ .text.SPI_I2S_SendData
+                0x0000000000000000        0x6 ./build/./vendor/Peripheral/src/ch32v20x_spi.c.o
+ .text.SPI_I2S_ReceiveData
+                0x0000000000000000        0xa ./build/./vendor/Peripheral/src/ch32v20x_spi.c.o
+ .text.SPI_NSSInternalSoftwareConfig
+                0x0000000000000000       0x2e ./build/./vendor/Peripheral/src/ch32v20x_spi.c.o
+ .text.SPI_SSOutputCmd
+                0x0000000000000000       0x1c ./build/./vendor/Peripheral/src/ch32v20x_spi.c.o
+ .text.SPI_DataSizeConfig
+                0x0000000000000000       0x24 ./build/./vendor/Peripheral/src/ch32v20x_spi.c.o
+ .text.SPI_TransmitCRC
+                0x0000000000000000       0x12 ./build/./vendor/Peripheral/src/ch32v20x_spi.c.o
+ .text.SPI_CalculateCRC
+                0x0000000000000000       0x1c ./build/./vendor/Peripheral/src/ch32v20x_spi.c.o
+ .text.SPI_GetCRC
+                0x0000000000000000       0x16 ./build/./vendor/Peripheral/src/ch32v20x_spi.c.o
+ .text.SPI_GetCRCPolynomial
+                0x0000000000000000        0xa ./build/./vendor/Peripheral/src/ch32v20x_spi.c.o
+ .text.SPI_BiDirectionalLineConfig
+                0x0000000000000000       0x28 ./build/./vendor/Peripheral/src/ch32v20x_spi.c.o
+ .text.SPI_I2S_GetFlagStatus
+                0x0000000000000000        0xc ./build/./vendor/Peripheral/src/ch32v20x_spi.c.o
+ .text.SPI_I2S_ClearFlag
+                0x0000000000000000        0xe ./build/./vendor/Peripheral/src/ch32v20x_spi.c.o
+ .text.SPI_I2S_GetITStatus
+                0x0000000000000000       0x30 ./build/./vendor/Peripheral/src/ch32v20x_spi.c.o
+ .text.SPI_I2S_ClearITPendingBit
+                0x0000000000000000       0x16 ./build/./vendor/Peripheral/src/ch32v20x_spi.c.o
+ .debug_info    0x0000000000000000      0xa09 ./build/./vendor/Peripheral/src/ch32v20x_spi.c.o
+ .debug_abbrev  0x0000000000000000      0x201 ./build/./vendor/Peripheral/src/ch32v20x_spi.c.o
+ .debug_loc     0x0000000000000000      0x57b ./build/./vendor/Peripheral/src/ch32v20x_spi.c.o
+ .debug_aranges
+                0x0000000000000000       0xd0 ./build/./vendor/Peripheral/src/ch32v20x_spi.c.o
+ .debug_ranges  0x0000000000000000       0xc0 ./build/./vendor/Peripheral/src/ch32v20x_spi.c.o
+ .debug_line    0x0000000000000000      0xc9f ./build/./vendor/Peripheral/src/ch32v20x_spi.c.o
+ .debug_str     0x0000000000000000      0x697 ./build/./vendor/Peripheral/src/ch32v20x_spi.c.o
+ .comment       0x0000000000000000       0x35 ./build/./vendor/Peripheral/src/ch32v20x_spi.c.o
+ .debug_frame   0x0000000000000000      0x1bc ./build/./vendor/Peripheral/src/ch32v20x_spi.c.o
+ .text          0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_wwdg.c.o
+ .data          0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_wwdg.c.o
+ .bss           0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_wwdg.c.o
+ .text.WWDG_DeInit
+                0x0000000000000000       0x2a ./build/./vendor/Peripheral/src/ch32v20x_wwdg.c.o
+ .text.WWDG_SetPrescaler
+                0x0000000000000000       0x14 ./build/./vendor/Peripheral/src/ch32v20x_wwdg.c.o
+ .text.WWDG_SetWindowValue
+                0x0000000000000000       0x26 ./build/./vendor/Peripheral/src/ch32v20x_wwdg.c.o
+ .text.WWDG_EnableIT
+                0x0000000000000000       0x12 ./build/./vendor/Peripheral/src/ch32v20x_wwdg.c.o
+ .text.WWDG_SetCounter
+                0x0000000000000000        0xe ./build/./vendor/Peripheral/src/ch32v20x_wwdg.c.o
+ .text.WWDG_Enable
+                0x0000000000000000        0xe ./build/./vendor/Peripheral/src/ch32v20x_wwdg.c.o
+ .text.WWDG_GetFlagStatus
+                0x0000000000000000        0xc ./build/./vendor/Peripheral/src/ch32v20x_wwdg.c.o
+ .text.WWDG_ClearFlag
+                0x0000000000000000        0xe ./build/./vendor/Peripheral/src/ch32v20x_wwdg.c.o
+ .debug_info    0x0000000000000000      0x272 ./build/./vendor/Peripheral/src/ch32v20x_wwdg.c.o
+ .debug_abbrev  0x0000000000000000      0x164 ./build/./vendor/Peripheral/src/ch32v20x_wwdg.c.o
+ .debug_loc     0x0000000000000000       0x82 ./build/./vendor/Peripheral/src/ch32v20x_wwdg.c.o
+ .debug_aranges
+                0x0000000000000000       0x58 ./build/./vendor/Peripheral/src/ch32v20x_wwdg.c.o
+ .debug_ranges  0x0000000000000000       0x48 ./build/./vendor/Peripheral/src/ch32v20x_wwdg.c.o
+ .debug_line    0x0000000000000000      0x399 ./build/./vendor/Peripheral/src/ch32v20x_wwdg.c.o
+ .debug_str     0x0000000000000000      0x2ba ./build/./vendor/Peripheral/src/ch32v20x_wwdg.c.o
+ .comment       0x0000000000000000       0x35 ./build/./vendor/Peripheral/src/ch32v20x_wwdg.c.o
+ .debug_frame   0x0000000000000000       0xa8 ./build/./vendor/Peripheral/src/ch32v20x_wwdg.c.o
+ .text          0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_rtc.c.o
+ .data          0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_rtc.c.o
+ .bss           0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_rtc.c.o
+ .text.RTC_ITConfig
+                0x0000000000000000       0x1e ./build/./vendor/Peripheral/src/ch32v20x_rtc.c.o
+ .text.RTC_EnterConfigMode
+                0x0000000000000000       0x16 ./build/./vendor/Peripheral/src/ch32v20x_rtc.c.o
+ .text.RTC_ExitConfigMode
+                0x0000000000000000       0x18 ./build/./vendor/Peripheral/src/ch32v20x_rtc.c.o
+ .text.RTC_GetCounter
+                0x0000000000000000       0x3c ./build/./vendor/Peripheral/src/ch32v20x_rtc.c.o
+ .text.RTC_SetCounter
+                0x0000000000000000       0x32 ./build/./vendor/Peripheral/src/ch32v20x_rtc.c.o
+ .text.RTC_SetPrescaler
+                0x0000000000000000       0x34 ./build/./vendor/Peripheral/src/ch32v20x_rtc.c.o
+ .text.RTC_SetAlarm
+                0x0000000000000000       0x32 ./build/./vendor/Peripheral/src/ch32v20x_rtc.c.o
+ .text.RTC_GetDivider
+                0x0000000000000000       0x1c ./build/./vendor/Peripheral/src/ch32v20x_rtc.c.o
+ .text.RTC_WaitForLastTask
+                0x0000000000000000       0x10 ./build/./vendor/Peripheral/src/ch32v20x_rtc.c.o
+ .text.RTC_WaitForSynchro
+                0x0000000000000000       0x24 ./build/./vendor/Peripheral/src/ch32v20x_rtc.c.o
+ .text.RTC_GetFlagStatus
+                0x0000000000000000       0x14 ./build/./vendor/Peripheral/src/ch32v20x_rtc.c.o
+ .text.RTC_ClearFlag
+                0x0000000000000000       0x18 ./build/./vendor/Peripheral/src/ch32v20x_rtc.c.o
+ .text.RTC_GetITStatus
+                0x0000000000000000       0x20 ./build/./vendor/Peripheral/src/ch32v20x_rtc.c.o
+ .text.RTC_ClearITPendingBit
+                0x0000000000000000        0x8 ./build/./vendor/Peripheral/src/ch32v20x_rtc.c.o
+ .debug_info    0x0000000000000000      0x49c ./build/./vendor/Peripheral/src/ch32v20x_rtc.c.o
+ .debug_abbrev  0x0000000000000000      0x181 ./build/./vendor/Peripheral/src/ch32v20x_rtc.c.o
+ .debug_loc     0x0000000000000000      0x275 ./build/./vendor/Peripheral/src/ch32v20x_rtc.c.o
+ .debug_aranges
+                0x0000000000000000       0x80 ./build/./vendor/Peripheral/src/ch32v20x_rtc.c.o
+ .debug_ranges  0x0000000000000000       0x70 ./build/./vendor/Peripheral/src/ch32v20x_rtc.c.o
+ .debug_line    0x0000000000000000      0x69d ./build/./vendor/Peripheral/src/ch32v20x_rtc.c.o
+ .debug_str     0x0000000000000000      0x3f4 ./build/./vendor/Peripheral/src/ch32v20x_rtc.c.o
+ .comment       0x0000000000000000       0x35 ./build/./vendor/Peripheral/src/ch32v20x_rtc.c.o
+ .debug_frame   0x0000000000000000      0x120 ./build/./vendor/Peripheral/src/ch32v20x_rtc.c.o
+ .text          0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_rcc.c.o
+ .data          0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_rcc.c.o
+ .bss           0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_rcc.c.o
+ .text.RCC_DeInit
+                0x0000000000000000       0x42 ./build/./vendor/Peripheral/src/ch32v20x_rcc.c.o
+ .text.RCC_HSEConfig
+                0x0000000000000000       0x3e ./build/./vendor/Peripheral/src/ch32v20x_rcc.c.o
+ .text.RCC_WaitForHSEStartUp
+                0x0000000000000000       0x2e ./build/./vendor/Peripheral/src/ch32v20x_rcc.c.o
+ .text.RCC_AdjustHSICalibrationValue
+                0x0000000000000000       0x12 ./build/./vendor/Peripheral/src/ch32v20x_rcc.c.o
+ .text.RCC_HSICmd
+                0x0000000000000000       0x14 ./build/./vendor/Peripheral/src/ch32v20x_rcc.c.o
+ .text.RCC_PLLConfig
+                0x0000000000000000       0x16 ./build/./vendor/Peripheral/src/ch32v20x_rcc.c.o
+ .text.RCC_PLLCmd
+                0x0000000000000000       0x24 ./build/./vendor/Peripheral/src/ch32v20x_rcc.c.o
+ .text.RCC_SYSCLKConfig
+                0x0000000000000000        0xe ./build/./vendor/Peripheral/src/ch32v20x_rcc.c.o
+ .text.RCC_GetSYSCLKSource
+                0x0000000000000000        0xa ./build/./vendor/Peripheral/src/ch32v20x_rcc.c.o
+ .text.RCC_HCLKConfig
+                0x0000000000000000       0x10 ./build/./vendor/Peripheral/src/ch32v20x_rcc.c.o
+ .text.RCC_PCLK1Config
+                0x0000000000000000       0x10 ./build/./vendor/Peripheral/src/ch32v20x_rcc.c.o
+ .text.RCC_PCLK2Config
+                0x0000000000000000       0x16 ./build/./vendor/Peripheral/src/ch32v20x_rcc.c.o
+ .text.RCC_ITConfig
+                0x0000000000000000       0x1e ./build/./vendor/Peripheral/src/ch32v20x_rcc.c.o
+ .text.RCC_USBCLKConfig
+                0x0000000000000000       0x1a ./build/./vendor/Peripheral/src/ch32v20x_rcc.c.o
+ .text.RCC_ADCCLKConfig
+                0x0000000000000000       0x12 ./build/./vendor/Peripheral/src/ch32v20x_rcc.c.o
+ .text.RCC_LSEConfig
+                0x0000000000000000       0x28 ./build/./vendor/Peripheral/src/ch32v20x_rcc.c.o
+ .text.RCC_LSICmd
+                0x0000000000000000       0x14 ./build/./vendor/Peripheral/src/ch32v20x_rcc.c.o
+ .text.RCC_RTCCLKConfig
+                0x0000000000000000        0xc ./build/./vendor/Peripheral/src/ch32v20x_rcc.c.o
+ .text.RCC_RTCCLKCmd
+                0x0000000000000000       0x20 ./build/./vendor/Peripheral/src/ch32v20x_rcc.c.o
+ .text.RCC_AHBPeriphClockCmd
+                0x0000000000000000       0x1e ./build/./vendor/Peripheral/src/ch32v20x_rcc.c.o
+ .text.RCC_APB1PeriphClockCmd
+                0x0000000000000000       0x1e ./build/./vendor/Peripheral/src/ch32v20x_rcc.c.o
+ .text.RCC_APB2PeriphResetCmd
+                0x0000000000000000       0x1e ./build/./vendor/Peripheral/src/ch32v20x_rcc.c.o
+ .text.RCC_APB1PeriphResetCmd
+                0x0000000000000000       0x1e ./build/./vendor/Peripheral/src/ch32v20x_rcc.c.o
+ .text.RCC_BackupResetCmd
+                0x0000000000000000       0x20 ./build/./vendor/Peripheral/src/ch32v20x_rcc.c.o
+ .text.RCC_ClockSecuritySystemCmd
+                0x0000000000000000       0x24 ./build/./vendor/Peripheral/src/ch32v20x_rcc.c.o
+ .text.RCC_MCOConfig
+                0x0000000000000000        0xa ./build/./vendor/Peripheral/src/ch32v20x_rcc.c.o
+ .text.RCC_GetFlagStatus
+                0x0000000000000000       0x2e ./build/./vendor/Peripheral/src/ch32v20x_rcc.c.o
+ .text.RCC_ClearFlag
+                0x0000000000000000       0x10 ./build/./vendor/Peripheral/src/ch32v20x_rcc.c.o
+ .text.RCC_GetITStatus
+                0x0000000000000000        0xe ./build/./vendor/Peripheral/src/ch32v20x_rcc.c.o
+ .text.RCC_ClearITPendingBit
+                0x0000000000000000        0xa ./build/./vendor/Peripheral/src/ch32v20x_rcc.c.o
+ .text.RCC_ADCCLKADJcmd
+                0x0000000000000000       0x18 ./build/./vendor/Peripheral/src/ch32v20x_rcc.c.o
+ .text.RCC_ETHDIVConfig
+                0x0000000000000000       0x1a ./build/./vendor/Peripheral/src/ch32v20x_rcc.c.o
+ .text          0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_crc.c.o
+ .data          0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_crc.c.o
+ .bss           0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_crc.c.o
+ .text.CRC_ResetDR
+                0x0000000000000000        0xa ./build/./vendor/Peripheral/src/ch32v20x_crc.c.o
+ .text.CRC_CalcCRC
+                0x0000000000000000        0xa ./build/./vendor/Peripheral/src/ch32v20x_crc.c.o
+ .text.CRC_CalcBlockCRC
+                0x0000000000000000       0x20 ./build/./vendor/Peripheral/src/ch32v20x_crc.c.o
+ .text.CRC_GetCRC
+                0x0000000000000000        0x8 ./build/./vendor/Peripheral/src/ch32v20x_crc.c.o
+ .text.CRC_SetIDRegister
+                0x0000000000000000        0xa ./build/./vendor/Peripheral/src/ch32v20x_crc.c.o
+ .text.CRC_GetIDRegister
+                0x0000000000000000        0xe ./build/./vendor/Peripheral/src/ch32v20x_crc.c.o
+ .debug_info    0x0000000000000000      0x200 ./build/./vendor/Peripheral/src/ch32v20x_crc.c.o
+ .debug_abbrev  0x0000000000000000      0x11b ./build/./vendor/Peripheral/src/ch32v20x_crc.c.o
+ .debug_loc     0x0000000000000000       0x8d ./build/./vendor/Peripheral/src/ch32v20x_crc.c.o
+ .debug_aranges
+                0x0000000000000000       0x48 ./build/./vendor/Peripheral/src/ch32v20x_crc.c.o
+ .debug_ranges  0x0000000000000000       0x38 ./build/./vendor/Peripheral/src/ch32v20x_crc.c.o
+ .debug_line    0x0000000000000000      0x2be ./build/./vendor/Peripheral/src/ch32v20x_crc.c.o
+ .debug_str     0x0000000000000000      0x283 ./build/./vendor/Peripheral/src/ch32v20x_crc.c.o
+ .comment       0x0000000000000000       0x35 ./build/./vendor/Peripheral/src/ch32v20x_crc.c.o
+ .debug_frame   0x0000000000000000       0x70 ./build/./vendor/Peripheral/src/ch32v20x_crc.c.o
+ .text          0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_opa.c.o
+ .data          0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_opa.c.o
+ .bss           0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_opa.c.o
+ .text.OPA_DeInit
+                0x0000000000000000        0xa ./build/./vendor/Peripheral/src/ch32v20x_opa.c.o
+ .text.OPA_Init
+                0x0000000000000000       0x36 ./build/./vendor/Peripheral/src/ch32v20x_opa.c.o
+ .text.OPA_StructInit
+                0x0000000000000000       0x12 ./build/./vendor/Peripheral/src/ch32v20x_opa.c.o
+ .text.OPA_Cmd  0x0000000000000000       0x2c ./build/./vendor/Peripheral/src/ch32v20x_opa.c.o
+ .debug_info    0x0000000000000000      0x275 ./build/./vendor/Peripheral/src/ch32v20x_opa.c.o
+ .debug_abbrev  0x0000000000000000      0x11d ./build/./vendor/Peripheral/src/ch32v20x_opa.c.o
+ .debug_loc     0x0000000000000000       0x56 ./build/./vendor/Peripheral/src/ch32v20x_opa.c.o
+ .debug_aranges
+                0x0000000000000000       0x38 ./build/./vendor/Peripheral/src/ch32v20x_opa.c.o
+ .debug_ranges  0x0000000000000000       0x28 ./build/./vendor/Peripheral/src/ch32v20x_opa.c.o
+ .debug_line    0x0000000000000000      0x32c ./build/./vendor/Peripheral/src/ch32v20x_opa.c.o
+ .debug_str     0x0000000000000000      0x2c3 ./build/./vendor/Peripheral/src/ch32v20x_opa.c.o
+ .comment       0x0000000000000000       0x35 ./build/./vendor/Peripheral/src/ch32v20x_opa.c.o
+ .debug_frame   0x0000000000000000       0x50 ./build/./vendor/Peripheral/src/ch32v20x_opa.c.o
+ .text          0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .data          0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .bss           0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TI1_Config
+                0x0000000000000000       0x76 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TI2_Config
+                0x0000000000000000       0x90 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_DeInit
+                0x0000000000000000       0xb6 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_TimeBaseInit
+                0x0000000000000000       0x72 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_OC1Init
+                0x0000000000000000       0x90 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_OC2Init
+                0x0000000000000000       0xb8 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_OC3Init
+                0x0000000000000000       0xb2 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_OC4Init
+                0x0000000000000000       0x8c ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_BDTRConfig
+                0x0000000000000000       0x32 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_TimeBaseStructInit
+                0x0000000000000000       0x18 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_OCStructInit
+                0x0000000000000000       0x22 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_ICStructInit
+                0x0000000000000000       0x18 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_BDTRStructInit
+                0x0000000000000000       0x1e ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_Cmd  0x0000000000000000       0x1c ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_CtrlPWMOutputs
+                0x0000000000000000       0x1a ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_ITConfig
+                0x0000000000000000       0x1a ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_GenerateEvent
+                0x0000000000000000        0x6 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_DMAConfig
+                0x0000000000000000        0x8 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_DMACmd
+                0x0000000000000000        0x8 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_InternalClockConfig
+                0x0000000000000000       0x14 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_ITRxExternalClockConfig
+                0x0000000000000000       0x24 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_TIxExternalClockConfig
+                0x0000000000000000       0x56 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_ETRConfig
+                0x0000000000000000       0x1a ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_ETRClockMode1Config
+                0x0000000000000000       0x2c ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_ETRClockMode2Config
+                0x0000000000000000       0x28 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_PrescalerConfig
+                0x0000000000000000        0xa ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_CounterModeConfig
+                0x0000000000000000       0x14 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_SelectInputTrigger
+                0x0000000000000000       0x14 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_EncoderInterfaceConfig
+                0x0000000000000000       0x46 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_ForcedOC1Config
+                0x0000000000000000       0x14 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_ForcedOC2Config
+                0x0000000000000000       0x1c ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_ForcedOC3Config
+                0x0000000000000000       0x14 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_ForcedOC4Config
+                0x0000000000000000       0x1c ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_ARRPreloadConfig
+                0x0000000000000000       0x1e ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_SelectCOM
+                0x0000000000000000       0x1c ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_SelectCCDMA
+                0x0000000000000000       0x1c ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_CCPreloadControl
+                0x0000000000000000       0x1c ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_OC1PreloadConfig
+                0x0000000000000000       0x12 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_OC2PreloadConfig
+                0x0000000000000000       0x1e ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_OC3PreloadConfig
+                0x0000000000000000       0x12 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_OC4PreloadConfig
+                0x0000000000000000       0x1e ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_OC1FastConfig
+                0x0000000000000000       0x12 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_OC2FastConfig
+                0x0000000000000000       0x1a ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_OC3FastConfig
+                0x0000000000000000       0x12 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_OC4FastConfig
+                0x0000000000000000       0x1a ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_ClearOC1Ref
+                0x0000000000000000       0x14 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_ClearOC2Ref
+                0x0000000000000000       0x16 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_ClearOC3Ref
+                0x0000000000000000       0x14 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_ClearOC4Ref
+                0x0000000000000000       0x16 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_OC1PolarityConfig
+                0x0000000000000000       0x12 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_OC1NPolarityConfig
+                0x0000000000000000       0x12 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_OC2PolarityConfig
+                0x0000000000000000       0x1a ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_OC2NPolarityConfig
+                0x0000000000000000       0x1a ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_OC3PolarityConfig
+                0x0000000000000000       0x1a ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_OC3NPolarityConfig
+                0x0000000000000000       0x1e ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_OC4PolarityConfig
+                0x0000000000000000       0x1c ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_CCxCmd
+                0x0000000000000000       0x2c ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_CCxNCmd
+                0x0000000000000000       0x2c ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_SelectOCxM
+                0x0000000000000000       0x54 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_UpdateDisableConfig
+                0x0000000000000000       0x1c ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_UpdateRequestConfig
+                0x0000000000000000       0x1c ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_SelectHallSensor
+                0x0000000000000000       0x1e ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_SelectOnePulseMode
+                0x0000000000000000       0x22 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_SelectOutputTrigger
+                0x0000000000000000       0x24 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_SelectSlaveMode
+                0x0000000000000000       0x22 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_SelectMasterSlaveMode
+                0x0000000000000000       0x24 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_SetCounter
+                0x0000000000000000        0x6 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_SetAutoreload
+                0x0000000000000000        0x6 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_SetCompare1
+                0x0000000000000000        0x6 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_SetCompare2
+                0x0000000000000000        0x6 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_SetCompare3
+                0x0000000000000000        0x6 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_SetCompare4
+                0x0000000000000000        0x6 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_SetIC1Prescaler
+                0x0000000000000000       0x22 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_SetIC2Prescaler
+                0x0000000000000000       0x2a ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_PWMIConfig
+                0x0000000000000000       0xb8 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_SetIC3Prescaler
+                0x0000000000000000       0x22 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_SetIC4Prescaler
+                0x0000000000000000       0x2a ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_ICInit
+                0x0000000000000000      0x1c6 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_SetClockDivision
+                0x0000000000000000       0x24 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_GetCapture1
+                0x0000000000000000        0xa ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_GetCapture2
+                0x0000000000000000        0xa ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_GetCapture3
+                0x0000000000000000        0xa ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_GetCapture4
+                0x0000000000000000        0xa ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_GetCounter
+                0x0000000000000000        0xa ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_GetPrescaler
+                0x0000000000000000        0xa ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_GetFlagStatus
+                0x0000000000000000        0xc ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_ClearFlag
+                0x0000000000000000        0xe ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_GetITStatus
+                0x0000000000000000       0x1c ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text.TIM_ClearITPendingBit
+                0x0000000000000000        0xe ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .debug_info    0x0000000000000000     0x20bf ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .debug_abbrev  0x0000000000000000      0x305 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .debug_loc     0x0000000000000000     0x161c ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .debug_aranges
+                0x0000000000000000      0x2d0 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .debug_ranges  0x0000000000000000      0x308 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .debug_line    0x0000000000000000     0x3149 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .debug_str     0x0000000000000000      0xe83 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .comment       0x0000000000000000       0x35 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .debug_frame   0x0000000000000000      0x668 ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+ .text          0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_dma.c.o
+ .data          0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_dma.c.o
+ .bss           0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_dma.c.o
+ .text.DMA_DeInit
+                0x0000000000000000       0x9c ./build/./vendor/Peripheral/src/ch32v20x_dma.c.o
+ .text.DMA_Init
+                0x0000000000000000       0x38 ./build/./vendor/Peripheral/src/ch32v20x_dma.c.o
+ .text.DMA_StructInit
+                0x0000000000000000       0x2e ./build/./vendor/Peripheral/src/ch32v20x_dma.c.o
+ .text.DMA_Cmd  0x0000000000000000       0x14 ./build/./vendor/Peripheral/src/ch32v20x_dma.c.o
+ .text.DMA_ITConfig
+                0x0000000000000000       0x12 ./build/./vendor/Peripheral/src/ch32v20x_dma.c.o
+ .text.DMA_SetCurrDataCounter
+                0x0000000000000000        0x4 ./build/./vendor/Peripheral/src/ch32v20x_dma.c.o
+ .text.DMA_GetCurrDataCounter
+                0x0000000000000000        0x8 ./build/./vendor/Peripheral/src/ch32v20x_dma.c.o
+ .text.DMA_GetFlagStatus
+                0x0000000000000000        0xe ./build/./vendor/Peripheral/src/ch32v20x_dma.c.o
+ .text.DMA_ClearFlag
+                0x0000000000000000        0x8 ./build/./vendor/Peripheral/src/ch32v20x_dma.c.o
+ .text.DMA_GetITStatus
+                0x0000000000000000        0x8 ./build/./vendor/Peripheral/src/ch32v20x_dma.c.o
+ .text.DMA_ClearITPendingBit
+                0x0000000000000000        0x8 ./build/./vendor/Peripheral/src/ch32v20x_dma.c.o
+ .debug_info    0x0000000000000000      0x46e ./build/./vendor/Peripheral/src/ch32v20x_dma.c.o
+ .debug_abbrev  0x0000000000000000      0x1de ./build/./vendor/Peripheral/src/ch32v20x_dma.c.o
+ .debug_loc     0x0000000000000000      0x155 ./build/./vendor/Peripheral/src/ch32v20x_dma.c.o
+ .debug_aranges
+                0x0000000000000000       0x60 ./build/./vendor/Peripheral/src/ch32v20x_dma.c.o
+ .debug_ranges  0x0000000000000000       0x50 ./build/./vendor/Peripheral/src/ch32v20x_dma.c.o
+ .debug_line    0x0000000000000000      0x67b ./build/./vendor/Peripheral/src/ch32v20x_dma.c.o
+ .debug_str     0x0000000000000000      0x3fb ./build/./vendor/Peripheral/src/ch32v20x_dma.c.o
+ .comment       0x0000000000000000       0x35 ./build/./vendor/Peripheral/src/ch32v20x_dma.c.o
+ .debug_frame   0x0000000000000000       0xc0 ./build/./vendor/Peripheral/src/ch32v20x_dma.c.o
+ .text          0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_pwr.c.o
+ .data          0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_pwr.c.o
+ .bss           0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_pwr.c.o
+ .text.PWR_DeInit
+                0x0000000000000000       0x24 ./build/./vendor/Peripheral/src/ch32v20x_pwr.c.o
+ .text.PWR_BackupAccessCmd
+                0x0000000000000000       0x16 ./build/./vendor/Peripheral/src/ch32v20x_pwr.c.o
+ .text.PWR_PVDCmd
+                0x0000000000000000       0x14 ./build/./vendor/Peripheral/src/ch32v20x_pwr.c.o
+ .text.PWR_PVDLevelConfig
+                0x0000000000000000       0x10 ./build/./vendor/Peripheral/src/ch32v20x_pwr.c.o
+ .text.PWR_WakeUpPinCmd
+                0x0000000000000000       0x16 ./build/./vendor/Peripheral/src/ch32v20x_pwr.c.o
+ .text.PWR_EnterSTOPMode
+                0x0000000000000000       0x62 ./build/./vendor/Peripheral/src/ch32v20x_pwr.c.o
+ .text.PWR_EnterSTANDBYMode
+                0x0000000000000000       0x30 ./build/./vendor/Peripheral/src/ch32v20x_pwr.c.o
+ .text.PWR_GetFlagStatus
+                0x0000000000000000        0xe ./build/./vendor/Peripheral/src/ch32v20x_pwr.c.o
+ .text.PWR_ClearFlag
+                0x0000000000000000        0xe ./build/./vendor/Peripheral/src/ch32v20x_pwr.c.o
+ .text.PWR_EnterSTANDBYMode_RAM
+                0x0000000000000000       0x2a ./build/./vendor/Peripheral/src/ch32v20x_pwr.c.o
+ .text.PWR_EnterSTANDBYMode_RAM_LV
+                0x0000000000000000       0x2c ./build/./vendor/Peripheral/src/ch32v20x_pwr.c.o
+ .text.PWR_EnterSTANDBYMode_RAM_VBAT_EN
+                0x0000000000000000       0x2c ./build/./vendor/Peripheral/src/ch32v20x_pwr.c.o
+ .text.PWR_EnterSTANDBYMode_RAM_LV_VBAT_EN
+                0x0000000000000000       0x2c ./build/./vendor/Peripheral/src/ch32v20x_pwr.c.o
+ .text.PWR_EnterSTOPMode_RAM_LV
+                0x0000000000000000       0x68 ./build/./vendor/Peripheral/src/ch32v20x_pwr.c.o
+ .debug_info    0x0000000000000000      0x6d6 ./build/./vendor/Peripheral/src/ch32v20x_pwr.c.o
+ .debug_abbrev  0x0000000000000000      0x286 ./build/./vendor/Peripheral/src/ch32v20x_pwr.c.o
+ .debug_loc     0x0000000000000000      0x267 ./build/./vendor/Peripheral/src/ch32v20x_pwr.c.o
+ .debug_aranges
+                0x0000000000000000       0x88 ./build/./vendor/Peripheral/src/ch32v20x_pwr.c.o
+ .debug_ranges  0x0000000000000000       0xa8 ./build/./vendor/Peripheral/src/ch32v20x_pwr.c.o
+ .debug_line    0x0000000000000000      0x96d ./build/./vendor/Peripheral/src/ch32v20x_pwr.c.o
+ .debug_str     0x0000000000000000      0x455 ./build/./vendor/Peripheral/src/ch32v20x_pwr.c.o
+ .comment       0x0000000000000000       0x35 ./build/./vendor/Peripheral/src/ch32v20x_pwr.c.o
+ .debug_frame   0x0000000000000000       0xfc ./build/./vendor/Peripheral/src/ch32v20x_pwr.c.o
+ .text          0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_gpio.c.o
+ .data          0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_gpio.c.o
+ .bss           0x0000000000000000        0x0 ./build/./vendor/Peripheral/src/ch32v20x_gpio.c.o
+ .text.GPIO_DeInit
+                0x0000000000000000       0xa2 ./build/./vendor/Peripheral/src/ch32v20x_gpio.c.o
+ .text.GPIO_AFIODeInit
+                0x0000000000000000       0x20 ./build/./vendor/Peripheral/src/ch32v20x_gpio.c.o
+ .text.GPIO_StructInit
+                0x0000000000000000       0x10 ./build/./vendor/Peripheral/src/ch32v20x_gpio.c.o
+ .text.GPIO_ReadInputDataBit
+                0x0000000000000000       0x14 ./build/./vendor/Peripheral/src/ch32v20x_gpio.c.o
+ .text.GPIO_ReadInputData
+                0x0000000000000000       0x16 ./build/./vendor/Peripheral/src/ch32v20x_gpio.c.o
+ .text.GPIO_ReadOutputDataBit
+                0x0000000000000000       0x14 ./build/./vendor/Peripheral/src/ch32v20x_gpio.c.o
+ .text.GPIO_ReadOutputData
+                0x0000000000000000       0x16 ./build/./vendor/Peripheral/src/ch32v20x_gpio.c.o
+ .text.GPIO_SetBits
+                0x0000000000000000        0xe ./build/./vendor/Peripheral/src/ch32v20x_gpio.c.o
+ .text.GPIO_ResetBits
+                0x0000000000000000        0xe ./build/./vendor/Peripheral/src/ch32v20x_gpio.c.o
+ .text.GPIO_Write
+                0x0000000000000000        0xe ./build/./vendor/Peripheral/src/ch32v20x_gpio.c.o
+ .text.GPIO_PinLockConfig
+                0x0000000000000000       0x1a ./build/./vendor/Peripheral/src/ch32v20x_gpio.c.o
+ .text.GPIO_EventOutputConfig
+                0x0000000000000000       0x18 ./build/./vendor/Peripheral/src/ch32v20x_gpio.c.o
+ .text.GPIO_EventOutputCmd
+                0x0000000000000000       0x16 ./build/./vendor/Peripheral/src/ch32v20x_gpio.c.o
+ .text.GPIO_PinRemapConfig
+                0x0000000000000000       0xd2 ./build/./vendor/Peripheral/src/ch32v20x_gpio.c.o
+ .text.GPIO_EXTILineConfig
+                0x0000000000000000       0x38 ./build/./vendor/Peripheral/src/ch32v20x_gpio.c.o
+ .text.GPIO_ETH_MediaInterfaceConfig
+                0x0000000000000000       0x24 ./build/./vendor/Peripheral/src/ch32v20x_gpio.c.o
+ .text          0x0000000000000000        0x0 ./build/./vendor/Startup/startup_ch32v20x_D6.S.o
+ .data          0x0000000000000000        0x0 ./build/./vendor/Startup/startup_ch32v20x_D6.S.o
+ .bss           0x0000000000000000        0x0 ./build/./vendor/Startup/startup_ch32v20x_D6.S.o
+ .text          0x0000000000000000        0x0 ./build/./vendor/User/ch32v20x_it.c.o
+ .data          0x0000000000000000        0x0 ./build/./vendor/User/ch32v20x_it.c.o
+ .bss           0x0000000000000000        0x0 ./build/./vendor/User/ch32v20x_it.c.o
+ .text          0x0000000000000000        0x0 ./build/./vendor/User/system_ch32v20x.c.o
+ .data          0x0000000000000000        0x0 ./build/./vendor/User/system_ch32v20x.c.o
+ .bss           0x0000000000000000        0x0 ./build/./vendor/User/system_ch32v20x.c.o
+ .text.SystemCoreClockUpdate
+                0x0000000000000000       0x82 ./build/./vendor/User/system_ch32v20x.c.o
+ .data.AHBPrescTable
+                0x0000000000000000       0x10 ./build/./vendor/User/system_ch32v20x.c.o
+ .text          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-printf.o)
+ .data          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-printf.o)
+ .bss           0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-printf.o)
+ .text._printf_r
+                0x0000000000000000       0x42 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-printf.o)
+ .text          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-puts.o)
+ .data          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-puts.o)
+ .bss           0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-puts.o)
+ .text          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-wbuf.o)
+ .data          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-wbuf.o)
+ .bss           0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-wbuf.o)
+ .text.__swbuf  0x0000000000000000       0x14 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-wbuf.o)
+ .text          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-wsetup.o)
+ .data          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-wsetup.o)
+ .bss           0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-wsetup.o)
+ .text          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-fflush.o)
+ .data          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-fflush.o)
+ .bss           0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-fflush.o)
+ .text.fflush   0x0000000000000000       0x2c /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-fflush.o)
+ .text          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-findfp.o)
+ .data          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-findfp.o)
+ .bss           0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-findfp.o)
+ .text.__fp_lock
+                0x0000000000000000        0x4 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-findfp.o)
+ .text.__fp_unlock
+                0x0000000000000000        0x4 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-findfp.o)
+ .text._cleanup
+                0x0000000000000000       0x10 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-findfp.o)
+ .text.__sfp_lock_acquire
+                0x0000000000000000        0x2 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-findfp.o)
+ .text.__sfp_lock_release
+                0x0000000000000000        0x2 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-findfp.o)
+ .text.__sinit_lock_acquire
+                0x0000000000000000        0x2 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-findfp.o)
+ .text.__sinit_lock_release
+                0x0000000000000000        0x2 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-findfp.o)
+ .text.__fp_lock_all
+                0x0000000000000000       0x18 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-findfp.o)
+ .text.__fp_unlock_all
+                0x0000000000000000       0x18 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-findfp.o)
+ .text          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-fwalk.o)
+ .data          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-fwalk.o)
+ .bss           0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-fwalk.o)
+ .text._fwalk   0x0000000000000000       0x62 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-fwalk.o)
+ .text          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-makebuf.o)
+ .data          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-makebuf.o)
+ .bss           0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-makebuf.o)
+ .data          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-freer.o)
+ .data          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-freer.o)
+ .bss           0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-freer.o)
+ .text          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-mallocr.o)
+ .data          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-mallocr.o)
+ .bss           0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-mallocr.o)
+ .text          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-vfprintf.o)
+ .data          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-vfprintf.o)
+ .bss           0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-vfprintf.o)
+ .text.__sprint_r
+                0x0000000000000000       0x2c /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-vfprintf.o)
+ .text.vfprintf
+                0x0000000000000000       0x16 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-vfprintf.o)
+ .text          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-sbrkr.o)
+ .data          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-sbrkr.o)
+ .bss           0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-sbrkr.o)
+ .text          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-stdio.o)
+ .data          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-stdio.o)
+ .bss           0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-stdio.o)
+ .text.__seofread
+                0x0000000000000000        0x4 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-stdio.o)
+ .text          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-writer.o)
+ .data          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-writer.o)
+ .bss           0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-writer.o)
+ .text          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-closer.o)
+ .data          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-closer.o)
+ .bss           0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-closer.o)
+ .text          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-fstatr.o)
+ .data          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-fstatr.o)
+ .bss           0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-fstatr.o)
+ .text          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-fvwrite.o)
+ .data          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-fvwrite.o)
+ .bss           0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-fvwrite.o)
+ .text.__sfvwrite_r
+                0x0000000000000000      0x314 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-fvwrite.o)
+ .comment       0x0000000000000000       0x35 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-fvwrite.o)
+ .text          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-isattyr.o)
+ .data          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-isattyr.o)
+ .bss           0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-isattyr.o)
+ .text          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-lseekr.o)
+ .data          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-lseekr.o)
+ .bss           0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-lseekr.o)
+ .text          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-memchr.o)
+ .data          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-memchr.o)
+ .bss           0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-memchr.o)
+ .text          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-memcpy.o)
+ .data          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-memcpy.o)
+ .bss           0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-memcpy.o)
+ .text.memcpy   0x0000000000000000       0xdc /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-memcpy.o)
+ .comment       0x0000000000000000       0x35 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-memcpy.o)
+ .text          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-memmove-stub.o)
+ .data          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-memmove-stub.o)
+ .bss           0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-memmove-stub.o)
+ .text.memmove  0x0000000000000000       0x4a /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-memmove-stub.o)
+ .comment       0x0000000000000000       0x35 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-memmove-stub.o)
+ .text          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-mlock.o)
+ .data          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-mlock.o)
+ .bss           0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-mlock.o)
+ .text          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-reallocr.o)
+ .data          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-reallocr.o)
+ .bss           0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-reallocr.o)
+ .text._realloc_r
+                0x0000000000000000       0x96 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-reallocr.o)
+ .comment       0x0000000000000000       0x35 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-reallocr.o)
+ .text          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .data          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .bss           0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .text          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-readr.o)
+ .data          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-readr.o)
+ .bss           0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-readr.o)
+ .text          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-reent.o)
+ .data          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-reent.o)
+ .bss           0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x0000000000000000       0x2c /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x0000000000000000      0x10a /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-reent.o)
+ .text          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-msizer.o)
+ .data          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-msizer.o)
+ .bss           0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-msizer.o)
+ .text._malloc_usable_size_r
+                0x0000000000000000       0x14 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-msizer.o)
+ .comment       0x0000000000000000       0x35 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-msizer.o)
+ .text          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libnosys.a(close.o)
+ .data          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libnosys.a(close.o)
+ .bss           0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libnosys.a(close.o)
+ .text          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libnosys.a(fstat.o)
+ .data          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libnosys.a(fstat.o)
+ .bss           0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libnosys.a(fstat.o)
+ .text          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libnosys.a(isatty.o)
+ .data          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libnosys.a(isatty.o)
+ .bss           0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libnosys.a(isatty.o)
+ .text          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libnosys.a(lseek.o)
+ .data          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libnosys.a(lseek.o)
+ .bss           0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libnosys.a(lseek.o)
+ .text          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libnosys.a(read.o)
+ .data          0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libnosys.a(read.o)
+ .bss           0x0000000000000000        0x0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libnosys.a(read.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0000000000000000 0x0000000000010000 xr
+RAM              0x0000000020000000 0x0000000000005000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD ./build/./app/main.c.o
+LOAD ./build/./vendor/Core/core_riscv.c.o
+LOAD ./build/./vendor/Debug/debug.c.o
+LOAD ./build/./vendor/Peripheral/src/ch32v20x_exti.c.o
+LOAD ./build/./vendor/Peripheral/src/ch32v20x_i2c.c.o
+LOAD ./build/./vendor/Peripheral/src/ch32v20x_usart.c.o
+LOAD ./build/./vendor/Peripheral/src/ch32v20x_can.c.o
+LOAD ./build/./vendor/Peripheral/src/ch32v20x_iwdg.c.o
+LOAD ./build/./vendor/Peripheral/src/ch32v20x_misc.c.o
+LOAD ./build/./vendor/Peripheral/src/ch32v20x_flash.c.o
+LOAD ./build/./vendor/Peripheral/src/ch32v20x_bkp.c.o
+LOAD ./build/./vendor/Peripheral/src/ch32v20x_dbgmcu.c.o
+LOAD ./build/./vendor/Peripheral/src/ch32v20x_adc.c.o
+LOAD ./build/./vendor/Peripheral/src/ch32v20x_spi.c.o
+LOAD ./build/./vendor/Peripheral/src/ch32v20x_wwdg.c.o
+LOAD ./build/./vendor/Peripheral/src/ch32v20x_rtc.c.o
+LOAD ./build/./vendor/Peripheral/src/ch32v20x_rcc.c.o
+LOAD ./build/./vendor/Peripheral/src/ch32v20x_crc.c.o
+LOAD ./build/./vendor/Peripheral/src/ch32v20x_opa.c.o
+LOAD ./build/./vendor/Peripheral/src/ch32v20x_tim.c.o
+LOAD ./build/./vendor/Peripheral/src/ch32v20x_dma.c.o
+LOAD ./build/./vendor/Peripheral/src/ch32v20x_pwr.c.o
+LOAD ./build/./vendor/Peripheral/src/ch32v20x_gpio.c.o
+LOAD ./build/./vendor/Startup/startup_ch32v20x_D6.S.o
+LOAD ./build/./vendor/User/ch32v20x_it.c.o
+LOAD ./build/./vendor/User/system_ch32v20x.c.o
+LOAD /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imafc/ilp32f/libgcc.a
+LOAD /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a
+LOAD /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libc_nano.a
+LOAD /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imafc/ilp32f/libgcc.a
+START GROUP
+LOAD /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imafc/ilp32f/libgcc.a
+LOAD /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libc_nano.a
+LOAD /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libnosys.a
+END GROUP
+START GROUP
+LOAD /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imafc/ilp32f/libgcc.a
+LOAD /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libc_nano.a
+LOAD /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libnosys.a
+END GROUP
+                0x0000000000000800                __stack_size = 0x800
+                [!provide]                        PROVIDE (_stack_size = __stack_size)
+
+.init           0x0000000000000000       0x38
+                0x0000000000000000                _sinit = .
+                0x0000000000000000                . = ALIGN (0x4)
+ *(SORT_NONE(.init))
+ .init          0x0000000000000000       0x38 ./build/./vendor/Startup/startup_ch32v20x_D6.S.o
+                0x0000000000000000                _start
+                0x0000000000000038                . = ALIGN (0x4)
+                0x0000000000000038                _einit = .
+
+.vector         0x0000000000000038      0x108
+ *(.vector)
+ .vector        0x0000000000000038       0xfc ./build/./vendor/Startup/startup_ch32v20x_D6.S.o
+                0x0000000000000140                . = ALIGN (0x40)
+ *fill*         0x0000000000000134        0xc 
+
+.text           0x0000000000000140     0x1944
+                0x0000000000000140                . = ALIGN (0x4)
+ *(.text)
+ .text          0x0000000000000140       0xa8 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-memset.o)
+                0x0000000000000140                memset
+ *(.text.*)
+ .text.GPIO_Toggle_INIT
+                0x00000000000001e8       0x30 ./build/./app/main.c.o
+                0x00000000000001e8                GPIO_Toggle_INIT
+ .text.startup.main
+                0x0000000000000218       0x50 ./build/./app/main.c.o
+                0x0000000000000218                main
+ .text.Delay_Init
+                0x0000000000000268       0x26 ./build/./vendor/Debug/debug.c.o
+                0x0000000000000268                Delay_Init
+ .text.Delay_Ms
+                0x000000000000028e       0x36 ./build/./vendor/Debug/debug.c.o
+                0x000000000000028e                Delay_Ms
+ .text.USART_Printf_Init
+                0x00000000000002c4       0x56 ./build/./vendor/Debug/debug.c.o
+                0x00000000000002c4                USART_Printf_Init
+ .text._write   0x000000000000031a       0x4c ./build/./vendor/Debug/debug.c.o
+                0x000000000000031a                _write
+ .text._sbrk    0x0000000000000366       0x2a ./build/./vendor/Debug/debug.c.o
+                0x0000000000000366                _sbrk
+ .text.USART_Init
+                0x0000000000000390       0xe0 ./build/./vendor/Peripheral/src/ch32v20x_usart.c.o
+                0x0000000000000390                USART_Init
+ .text.USART_Cmd
+                0x0000000000000470       0x1c ./build/./vendor/Peripheral/src/ch32v20x_usart.c.o
+                0x0000000000000470                USART_Cmd
+ .text.USART_SendData
+                0x000000000000048c        0xa ./build/./vendor/Peripheral/src/ch32v20x_usart.c.o
+                0x000000000000048c                USART_SendData
+ .text.USART_GetFlagStatus
+                0x0000000000000496        0xc ./build/./vendor/Peripheral/src/ch32v20x_usart.c.o
+                0x0000000000000496                USART_GetFlagStatus
+ .text.NVIC_PriorityGroupConfig
+                0x00000000000004a2        0x6 ./build/./vendor/Peripheral/src/ch32v20x_misc.c.o
+                0x00000000000004a2                NVIC_PriorityGroupConfig
+ .text.RCC_GetClocksFreq
+                0x00000000000004a8       0xc4 ./build/./vendor/Peripheral/src/ch32v20x_rcc.c.o
+                0x00000000000004a8                RCC_GetClocksFreq
+ .text.RCC_APB2PeriphClockCmd
+                0x000000000000056c       0x1e ./build/./vendor/Peripheral/src/ch32v20x_rcc.c.o
+                0x000000000000056c                RCC_APB2PeriphClockCmd
+ .text.GPIO_Init
+                0x000000000000058a       0xd4 ./build/./vendor/Peripheral/src/ch32v20x_gpio.c.o
+                0x000000000000058a                GPIO_Init
+ .text.GPIO_WriteBit
+                0x000000000000065e       0x14 ./build/./vendor/Peripheral/src/ch32v20x_gpio.c.o
+                0x000000000000065e                GPIO_WriteBit
+ .text.vector_handler
+                0x0000000000000672       0x6c ./build/./vendor/Startup/startup_ch32v20x_D6.S.o
+                0x0000000000000676                Ecall_M_Mode_Handler
+                0x0000000000000678                Ecall_U_Mode_Handler
+                0x000000000000067a                Break_Point_Handler
+                0x000000000000067c                SysTick_Handler
+                0x000000000000067e                SW_handler
+                0x0000000000000680                WWDG_IRQHandler
+                0x0000000000000682                PVD_IRQHandler
+                0x0000000000000684                TAMPER_IRQHandler
+                0x0000000000000686                RTC_IRQHandler
+                0x0000000000000688                FLASH_IRQHandler
+                0x000000000000068a                RCC_IRQHandler
+                0x000000000000068c                EXTI0_IRQHandler
+                0x000000000000068e                EXTI1_IRQHandler
+                0x0000000000000690                EXTI2_IRQHandler
+                0x0000000000000692                EXTI3_IRQHandler
+                0x0000000000000694                EXTI4_IRQHandler
+                0x0000000000000696                DMA1_Channel1_IRQHandler
+                0x0000000000000698                DMA1_Channel2_IRQHandler
+                0x000000000000069a                DMA1_Channel3_IRQHandler
+                0x000000000000069c                DMA1_Channel4_IRQHandler
+                0x000000000000069e                DMA1_Channel5_IRQHandler
+                0x00000000000006a0                DMA1_Channel6_IRQHandler
+                0x00000000000006a2                DMA1_Channel7_IRQHandler
+                0x00000000000006a4                ADC1_2_IRQHandler
+                0x00000000000006a6                USB_HP_CAN1_TX_IRQHandler
+                0x00000000000006a8                USB_LP_CAN1_RX0_IRQHandler
+                0x00000000000006aa                CAN1_RX1_IRQHandler
+                0x00000000000006ac                CAN1_SCE_IRQHandler
+                0x00000000000006ae                EXTI9_5_IRQHandler
+                0x00000000000006b0                TIM1_BRK_IRQHandler
+                0x00000000000006b2                TIM1_UP_IRQHandler
+                0x00000000000006b4                TIM1_TRG_COM_IRQHandler
+                0x00000000000006b6                TIM1_CC_IRQHandler
+                0x00000000000006b8                TIM2_IRQHandler
+                0x00000000000006ba                TIM3_IRQHandler
+                0x00000000000006bc                TIM4_IRQHandler
+                0x00000000000006be                I2C1_EV_IRQHandler
+                0x00000000000006c0                I2C1_ER_IRQHandler
+                0x00000000000006c2                I2C2_EV_IRQHandler
+                0x00000000000006c4                I2C2_ER_IRQHandler
+                0x00000000000006c6                SPI1_IRQHandler
+                0x00000000000006c8                SPI2_IRQHandler
+                0x00000000000006ca                USART1_IRQHandler
+                0x00000000000006cc                USART2_IRQHandler
+                0x00000000000006ce                USART3_IRQHandler
+                0x00000000000006d0                EXTI15_10_IRQHandler
+                0x00000000000006d2                RTCAlarm_IRQHandler
+                0x00000000000006d4                USBWakeUp_IRQHandler
+                0x00000000000006d6                USBHD_IRQHandler
+                0x00000000000006d8                USBHDWakeUp_IRQHandler
+                0x00000000000006da                UART4_IRQHandler
+                0x00000000000006dc                DMA1_Channel8_IRQHandler
+ .text.handle_reset
+                0x00000000000006de       0x86 ./build/./vendor/Startup/startup_ch32v20x_D6.S.o
+                0x00000000000006de                handle_reset
+ .text.NMI_Handler
+                0x0000000000000764        0x2 ./build/./vendor/User/ch32v20x_it.c.o
+                0x0000000000000764                NMI_Handler
+ .text.HardFault_Handler
+                0x0000000000000766        0x2 ./build/./vendor/User/ch32v20x_it.c.o
+                0x0000000000000766                HardFault_Handler
+ .text.SystemInit
+                0x0000000000000768       0x42 ./build/./vendor/User/system_ch32v20x.c.o
+                0x0000000000000768                SystemInit
+ .text.printf   0x00000000000007aa       0x3a /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-printf.o)
+                0x00000000000007aa                printf
+                0x00000000000007aa                iprintf
+ .text._puts_r  0x00000000000007e4       0xda /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-puts.o)
+                0x00000000000007e4                _puts_r
+ .text.puts     0x00000000000008be        0x8 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-puts.o)
+                0x00000000000008be                puts
+ .text.__swbuf_r
+                0x00000000000008c6       0xc0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-wbuf.o)
+                0x00000000000008c6                __swbuf_r
+ .text.__swsetup_r
+                0x0000000000000986      0x106 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-wsetup.o)
+                0x0000000000000986                __swsetup_r
+ .text.__sflush_r
+                0x0000000000000a8c      0x146 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-fflush.o)
+                0x0000000000000a8c                __sflush_r
+ .text._fflush_r
+                0x0000000000000bd2       0x64 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-fflush.o)
+                0x0000000000000bd2                _fflush_r
+ .text.std      0x0000000000000c36       0x6a /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-findfp.o)
+ .text._cleanup_r
+                0x0000000000000ca0        0xa /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-findfp.o)
+                0x0000000000000ca0                _cleanup_r
+ .text.__sfmoreglue
+                0x0000000000000caa       0x46 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-findfp.o)
+                0x0000000000000caa                __sfmoreglue
+ .text.__sinit  0x0000000000000cf0       0x66 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-findfp.o)
+                0x0000000000000cf0                __sinit
+ .text.__sfp    0x0000000000000d56       0x9a /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-findfp.o)
+                0x0000000000000d56                __sfp
+ .text._fwalk_reent
+                0x0000000000000df0       0x6a /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-fwalk.o)
+                0x0000000000000df0                _fwalk_reent
+ .text.__swhatbuf_r
+                0x0000000000000e5a       0x5a /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-makebuf.o)
+                0x0000000000000e5a                __swhatbuf_r
+ .text.__smakebuf_r
+                0x0000000000000eb4       0x9c /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-makebuf.o)
+                0x0000000000000eb4                __smakebuf_r
+ .text._free_r  0x0000000000000f50       0x9e /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-freer.o)
+                0x0000000000000f50                _free_r
+ .text._malloc_r
+                0x0000000000000fee       0xd0 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-mallocr.o)
+                0x0000000000000fee                _malloc_r
+ .text.__sfputc_r
+                0x00000000000010be       0x2a /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-vfprintf.o)
+ .text.__sfputs_r
+                0x00000000000010e8       0x42 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-vfprintf.o)
+                0x00000000000010e8                __sfputs_r
+ .text._vfprintf_r
+                0x000000000000112a      0x294 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-vfprintf.o)
+                0x000000000000112a                _vfiprintf_r
+                0x000000000000112a                _vfprintf_r
+ .text._sbrk_r  0x00000000000013be       0x28 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-sbrkr.o)
+                0x00000000000013be                _sbrk_r
+ .text.__sread  0x00000000000013e6       0x30 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-stdio.o)
+                0x00000000000013e6                __sread
+ .text.__swrite
+                0x0000000000001416       0x4e /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-stdio.o)
+                0x0000000000001416                __swrite
+ .text.__sseek  0x0000000000001464       0x36 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-stdio.o)
+                0x0000000000001464                __sseek
+ .text.__sclose
+                0x000000000000149a        0x6 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-stdio.o)
+                0x000000000000149a                __sclose
+ .text._write_r
+                0x00000000000014a0       0x2c /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-writer.o)
+                0x00000000000014a0                _write_r
+ .text._close_r
+                0x00000000000014cc       0x26 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-closer.o)
+                0x00000000000014cc                _close_r
+ .text._fstat_r
+                0x00000000000014f2       0x28 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-fstatr.o)
+                0x00000000000014f2                _fstat_r
+ .text._isatty_r
+                0x000000000000151a       0x26 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-isattyr.o)
+                0x000000000000151a                _isatty_r
+ .text._lseek_r
+                0x0000000000001540       0x2a /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-lseekr.o)
+                0x0000000000001540                _lseek_r
+ .text.memchr   0x000000000000156a       0x1a /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-memchr.o)
+                0x000000000000156a                memchr
+ .text.__malloc_lock
+                0x0000000000001584        0x2 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-mlock.o)
+                0x0000000000001584                __malloc_lock
+ .text.__malloc_unlock
+                0x0000000000001586        0x2 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-mlock.o)
+                0x0000000000001586                __malloc_unlock
+ .text._printf_common
+                0x0000000000001588      0x10c /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-vfprintf_i.o)
+                0x0000000000001588                _printf_common
+ .text._printf_i
+                0x0000000000001694      0x270 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-vfprintf_i.o)
+                0x0000000000001694                _printf_i
+ .text._read_r  0x0000000000001904       0x2a /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-readr.o)
+                0x0000000000001904                _read_r
+ .text._close   0x000000000000192e        0xc /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libnosys.a(close.o)
+                0x000000000000192e                _close
+ .text._fstat   0x000000000000193a        0xc /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libnosys.a(fstat.o)
+                0x000000000000193a                _fstat
+ .text._isatty  0x0000000000001946        0xc /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libnosys.a(isatty.o)
+                0x0000000000001946                _isatty
+ .text._lseek   0x0000000000001952        0xc /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libnosys.a(lseek.o)
+                0x0000000000001952                _lseek
+ .text._read    0x000000000000195e        0xc /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libnosys.a(read.o)
+                0x000000000000195e                _read
+ *(.rodata)
+ *(.rodata*)
+ *fill*         0x000000000000196a        0x2 
+ .rodata.main.str1.4
+                0x000000000000196c       0x22 ./build/./app/main.c.o
+ *fill*         0x000000000000198e        0x2 
+ .rodata.__sf_fake_stderr
+                0x0000000000001990       0x20 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-findfp.o)
+                0x0000000000001990                __sf_fake_stderr
+ .rodata.__sf_fake_stdin
+                0x00000000000019b0       0x20 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-findfp.o)
+                0x00000000000019b0                __sf_fake_stdin
+ .rodata.__sf_fake_stdout
+                0x00000000000019d0       0x20 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-findfp.o)
+                0x00000000000019d0                __sf_fake_stdout
+ .rodata._vfprintf_r.str1.4
+                0x00000000000019f0       0x13 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-vfprintf.o)
+ *fill*         0x0000000000001a03        0x1 
+ .rodata._printf_i.str1.4
+                0x0000000000001a04       0x25 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ *fill*         0x0000000000001a29        0x3 
+ .rodata._printf_i
+                0x0000000000001a2c       0x58 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ *(.glue_7)
+ *(.glue_7t)
+ *(.gnu.linkonce.t.*)
+                0x0000000000001a84                . = ALIGN (0x4)
+
+.rela.dyn       0x0000000000001a84        0x0
+ .rela.text._sbrk
+                0x0000000000001a84        0x0 ./build/./app/main.c.o
+ .rela.sdata.curbrk.0
+                0x0000000000001a84        0x0 ./build/./app/main.c.o
+ .rela.init     0x0000000000001a84        0x0 ./build/./app/main.c.o
+ .rela.vector   0x0000000000001a84        0x0 ./build/./app/main.c.o
+ .rela.text.handle_reset
+                0x0000000000001a84        0x0 ./build/./app/main.c.o
+ .rela.text._vfprintf_r
+                0x0000000000001a84        0x0 ./build/./app/main.c.o
+
+.fini           0x0000000000001a84        0x0
+ *(SORT_NONE(.fini))
+                0x0000000000001a84                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (_etext = .)
+                [!provide]                        PROVIDE (_eitcm = .)
+
+.preinit_array  0x0000000000001a84        0x0
+                [!provide]                        PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                [!provide]                        PROVIDE (__preinit_array_end = .)
+
+.init_array     0x0000000000001a84        0x0
+                [!provide]                        PROVIDE (__init_array_start = .)
+ *(SORT_BY_INIT_PRIORITY(.init_array.*) SORT_BY_INIT_PRIORITY(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+                [!provide]                        PROVIDE (__init_array_end = .)
+
+.fini_array     0x0000000000001a84        0x0
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_INIT_PRIORITY(.fini_array.*) SORT_BY_INIT_PRIORITY(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+                [!provide]                        PROVIDE (__fini_array_end = .)
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+
+.dalign         0x0000000020000000        0x0 load address 0x0000000000001a84
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                PROVIDE (_data_vma = .)
+
+.dlalign        0x0000000000001a84        0x0
+                0x0000000000001a84                . = ALIGN (0x4)
+                0x0000000000001a84                PROVIDE (_data_lma = .)
+
+.data           0x0000000020000000       0x84 load address 0x0000000000001a84
+ *(.gnu.linkonce.r.*)
+ *(.data .data.*)
+ .data.APBAHBPrescTable
+                0x0000000020000000       0x10 ./build/./vendor/Peripheral/src/ch32v20x_rcc.c.o
+ .data.impure_data
+                0x0000000020000010       0x60 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-impure.o)
+ *(.gnu.linkonce.d.*)
+                0x0000000020000070                . = ALIGN (0x8)
+                0x0000000020000870                PROVIDE (__global_pointer$ = (. + 0x800))
+ *(.sdata .sdata.*)
+ .sdata.curbrk.0
+                0x0000000020000070        0x4 ./build/./vendor/Debug/debug.c.o
+ .sdata.ADCPrescTable
+                0x0000000020000074        0x4 ./build/./vendor/Peripheral/src/ch32v20x_rcc.c.o
+ .sdata.SystemCoreClock
+                0x0000000020000078        0x4 ./build/./vendor/User/system_ch32v20x.c.o
+                0x0000000020000078                SystemCoreClock
+ .sdata._impure_ptr
+                0x000000002000007c        0x4 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-impure.o)
+                0x000000002000007c                _impure_ptr
+ *(.sdata2.*)
+ *(.gnu.linkonce.s.*)
+                0x0000000020000080                . = ALIGN (0x8)
+ *(.srodata.cst16)
+ *(.srodata.cst8)
+ *(.srodata.cst4)
+ *(.srodata.cst2)
+ *(.srodata .srodata.*)
+ .srodata._global_impure_ptr
+                0x0000000020000080        0x4 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-impure.o)
+                0x0000000020000080                _global_impure_ptr
+                0x0000000020000084                . = ALIGN (0x4)
+                0x0000000020000084                PROVIDE (_edata = .)
+
+.bss            0x0000000020000084       0x14 load address 0x0000000000001b08
+                0x0000000020000084                . = ALIGN (0x4)
+                0x0000000020000084                PROVIDE (_sbss = .)
+ *(.sbss*)
+ .sbss.p_ms     0x0000000020000084        0x2 ./build/./vendor/Debug/debug.c.o
+ .sbss.p_us     0x0000000020000086        0x1 ./build/./vendor/Debug/debug.c.o
+ *fill*         0x0000000020000087        0x1 
+ .sbss.NVIC_Priority_Group
+                0x0000000020000088        0x4 ./build/./vendor/Peripheral/src/ch32v20x_misc.c.o
+                0x0000000020000088                NVIC_Priority_Group
+ .sbss.__malloc_free_list
+                0x000000002000008c        0x4 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-mallocr.o)
+                0x000000002000008c                __malloc_free_list
+ .sbss.__malloc_sbrk_start
+                0x0000000020000090        0x4 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-mallocr.o)
+                0x0000000020000090                __malloc_sbrk_start
+ .sbss.errno    0x0000000020000094        0x4 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-reent.o)
+                0x0000000020000094                errno
+ *(.gnu.linkonce.sb.*)
+ *(.bss*)
+ *(.gnu.linkonce.b.*)
+ *(COMMON*)
+                0x0000000020000098                . = ALIGN (0x4)
+                0x0000000020000098                PROVIDE (_ebss = .)
+                0x0000000020000098                PROVIDE (_end = _ebss)
+                [!provide]                        PROVIDE (end = .)
+
+.stack          0x0000000020004800      0x800
+                0x0000000020004800                PROVIDE (_heap_end = .)
+                0x0000000020004800                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (_susrstack = .)
+                0x0000000020005000                . = (. + __stack_size)
+ *fill*         0x0000000020004800      0x800 
+                0x0000000020005000                PROVIDE (_eusrstack = .)
+OUTPUT(build/app.elf elf32-littleriscv)
+
+.debug_info     0x0000000000000000     0x300c
+ .debug_info    0x0000000000000000      0x3b9 ./build/./app/main.c.o
+ .debug_info    0x00000000000003b9      0x67c ./build/./vendor/Debug/debug.c.o
+ .debug_info    0x0000000000000a35      0xafa ./build/./vendor/Peripheral/src/ch32v20x_usart.c.o
+ .debug_info    0x000000000000152f      0x5c4 ./build/./vendor/Peripheral/src/ch32v20x_misc.c.o
+ .debug_info    0x0000000000001af3      0xa10 ./build/./vendor/Peripheral/src/ch32v20x_rcc.c.o
+ .debug_info    0x0000000000002503      0x80e ./build/./vendor/Peripheral/src/ch32v20x_gpio.c.o
+ .debug_info    0x0000000000002d11       0x22 ./build/./vendor/Startup/startup_ch32v20x_D6.S.o
+ .debug_info    0x0000000000002d33       0x97 ./build/./vendor/User/ch32v20x_it.c.o
+ .debug_info    0x0000000000002dca      0x242 ./build/./vendor/User/system_ch32v20x.c.o
+
+.debug_abbrev   0x0000000000000000      0xdce
+ .debug_abbrev  0x0000000000000000      0x18d ./build/./app/main.c.o
+ .debug_abbrev  0x000000000000018d      0x1f6 ./build/./vendor/Debug/debug.c.o
+ .debug_abbrev  0x0000000000000383      0x1f0 ./build/./vendor/Peripheral/src/ch32v20x_usart.c.o
+ .debug_abbrev  0x0000000000000573      0x1d0 ./build/./vendor/Peripheral/src/ch32v20x_misc.c.o
+ .debug_abbrev  0x0000000000000743      0x2b3 ./build/./vendor/Peripheral/src/ch32v20x_rcc.c.o
+ .debug_abbrev  0x00000000000009f6      0x226 ./build/./vendor/Peripheral/src/ch32v20x_gpio.c.o
+ .debug_abbrev  0x0000000000000c1c       0x12 ./build/./vendor/Startup/startup_ch32v20x_D6.S.o
+ .debug_abbrev  0x0000000000000c2e       0x44 ./build/./vendor/User/ch32v20x_it.c.o
+ .debug_abbrev  0x0000000000000c72      0x15c ./build/./vendor/User/system_ch32v20x.c.o
+
+.debug_loc      0x0000000000000000     0x19f6
+ .debug_loc     0x0000000000000000       0x1f ./build/./app/main.c.o
+ .debug_loc     0x000000000000001f      0x1b3 ./build/./vendor/Debug/debug.c.o
+ .debug_loc     0x00000000000001d2      0x770 ./build/./vendor/Peripheral/src/ch32v20x_usart.c.o
+ .debug_loc     0x0000000000000942       0xcd ./build/./vendor/Peripheral/src/ch32v20x_misc.c.o
+ .debug_loc     0x0000000000000a0f      0x7b4 ./build/./vendor/Peripheral/src/ch32v20x_rcc.c.o
+ .debug_loc     0x00000000000011c3      0x76d ./build/./vendor/Peripheral/src/ch32v20x_gpio.c.o
+ .debug_loc     0x0000000000001930       0xc6 ./build/./vendor/User/system_ch32v20x.c.o
+
+.debug_aranges  0x0000000000000000      0x3e8
+ .debug_aranges
+                0x0000000000000000       0x28 ./build/./app/main.c.o
+ .debug_aranges
+                0x0000000000000028       0x48 ./build/./vendor/Debug/debug.c.o
+ .debug_aranges
+                0x0000000000000070      0x100 ./build/./vendor/Peripheral/src/ch32v20x_usart.c.o
+ .debug_aranges
+                0x0000000000000170       0x28 ./build/./vendor/Peripheral/src/ch32v20x_misc.c.o
+ .debug_aranges
+                0x0000000000000198      0x128 ./build/./vendor/Peripheral/src/ch32v20x_rcc.c.o
+ .debug_aranges
+                0x00000000000002c0       0xa8 ./build/./vendor/Peripheral/src/ch32v20x_gpio.c.o
+ .debug_aranges
+                0x0000000000000368       0x30 ./build/./vendor/Startup/startup_ch32v20x_D6.S.o
+ .debug_aranges
+                0x0000000000000398       0x28 ./build/./vendor/User/ch32v20x_it.c.o
+ .debug_aranges
+                0x00000000000003c0       0x28 ./build/./vendor/User/system_ch32v20x.c.o
+
+.debug_ranges   0x0000000000000000      0x3e0
+ .debug_ranges  0x0000000000000000       0x18 ./build/./app/main.c.o
+ .debug_ranges  0x0000000000000018       0x38 ./build/./vendor/Debug/debug.c.o
+ .debug_ranges  0x0000000000000050       0xf0 ./build/./vendor/Peripheral/src/ch32v20x_usart.c.o
+ .debug_ranges  0x0000000000000140       0x60 ./build/./vendor/Peripheral/src/ch32v20x_misc.c.o
+ .debug_ranges  0x00000000000001a0      0x150 ./build/./vendor/Peripheral/src/ch32v20x_rcc.c.o
+ .debug_ranges  0x00000000000002f0       0x98 ./build/./vendor/Peripheral/src/ch32v20x_gpio.c.o
+ .debug_ranges  0x0000000000000388       0x28 ./build/./vendor/Startup/startup_ch32v20x_D6.S.o
+ .debug_ranges  0x00000000000003b0       0x18 ./build/./vendor/User/ch32v20x_it.c.o
+ .debug_ranges  0x00000000000003c8       0x18 ./build/./vendor/User/system_ch32v20x.c.o
+
+.debug_line     0x0000000000000000     0x43b2
+ .debug_line    0x0000000000000000      0x39d ./build/./app/main.c.o
+ .debug_line    0x000000000000039d      0x6b0 ./build/./vendor/Debug/debug.c.o
+ .debug_line    0x0000000000000a4d      0xf36 ./build/./vendor/Peripheral/src/ch32v20x_usart.c.o
+ .debug_line    0x0000000000001983      0x3cc ./build/./vendor/Peripheral/src/ch32v20x_misc.c.o
+ .debug_line    0x0000000000001d4f     0x1119 ./build/./vendor/Peripheral/src/ch32v20x_rcc.c.o
+ .debug_line    0x0000000000002e68      0xeeb ./build/./vendor/Peripheral/src/ch32v20x_gpio.c.o
+ .debug_line    0x0000000000003d53      0x263 ./build/./vendor/Startup/startup_ch32v20x_D6.S.o
+ .debug_line    0x0000000000003fb6       0x86 ./build/./vendor/User/ch32v20x_it.c.o
+ .debug_line    0x000000000000403c      0x376 ./build/./vendor/User/system_ch32v20x.c.o
+
+.debug_str      0x0000000000000000     0x146c
+ .debug_str     0x0000000000000000      0x376 ./build/./app/main.c.o
+                                        0x3ce (size before relaxing)
+ .debug_str     0x0000000000000376      0x1ac ./build/./vendor/Debug/debug.c.o
+                                        0x51e (size before relaxing)
+ .debug_str     0x0000000000000522      0x422 ./build/./vendor/Peripheral/src/ch32v20x_usart.c.o
+                                        0x71f (size before relaxing)
+ .debug_str     0x0000000000000944      0x472 ./build/./vendor/Peripheral/src/ch32v20x_misc.c.o
+                                        0x68d (size before relaxing)
+ .debug_str     0x0000000000000db6      0x3e5 ./build/./vendor/Peripheral/src/ch32v20x_rcc.c.o
+                                        0x6c4 (size before relaxing)
+ .debug_str     0x000000000000119b      0x215 ./build/./vendor/Peripheral/src/ch32v20x_gpio.c.o
+                                        0x579 (size before relaxing)
+ .debug_str     0x00000000000013b0       0x31 ./build/./vendor/Startup/startup_ch32v20x_D6.S.o
+                                         0x5d (size before relaxing)
+ .debug_str     0x00000000000013e1       0x38 ./build/./vendor/User/ch32v20x_it.c.o
+                                        0x1aa (size before relaxing)
+ .debug_str     0x0000000000001419       0x53 ./build/./vendor/User/system_ch32v20x.c.o
+                                        0x28b (size before relaxing)
+
+.comment        0x0000000000000000       0x34
+ .comment       0x0000000000000000       0x34 ./build/./app/main.c.o
+                                         0x35 (size before relaxing)
+ .comment       0x0000000000000034       0x35 ./build/./vendor/Debug/debug.c.o
+ .comment       0x0000000000000034       0x35 ./build/./vendor/Peripheral/src/ch32v20x_usart.c.o
+ .comment       0x0000000000000034       0x35 ./build/./vendor/Peripheral/src/ch32v20x_misc.c.o
+ .comment       0x0000000000000034       0x35 ./build/./vendor/Peripheral/src/ch32v20x_rcc.c.o
+ .comment       0x0000000000000034       0x35 ./build/./vendor/Peripheral/src/ch32v20x_gpio.c.o
+ .comment       0x0000000000000034       0x35 ./build/./vendor/User/ch32v20x_it.c.o
+ .comment       0x0000000000000034       0x35 ./build/./vendor/User/system_ch32v20x.c.o
+ .comment       0x0000000000000034       0x35 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-printf.o)
+ .comment       0x0000000000000034       0x35 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-puts.o)
+ .comment       0x0000000000000034       0x35 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-wbuf.o)
+ .comment       0x0000000000000034       0x35 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-wsetup.o)
+ .comment       0x0000000000000034       0x35 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-fflush.o)
+ .comment       0x0000000000000034       0x35 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-findfp.o)
+ .comment       0x0000000000000034       0x35 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-fwalk.o)
+ .comment       0x0000000000000034       0x35 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-impure.o)
+ .comment       0x0000000000000034       0x35 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-makebuf.o)
+ .comment       0x0000000000000034       0x35 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-freer.o)
+ .comment       0x0000000000000034       0x35 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-mallocr.o)
+ .comment       0x0000000000000034       0x35 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-vfprintf.o)
+ .comment       0x0000000000000034       0x35 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-sbrkr.o)
+ .comment       0x0000000000000034       0x35 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-stdio.o)
+ .comment       0x0000000000000034       0x35 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-writer.o)
+ .comment       0x0000000000000034       0x35 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-closer.o)
+ .comment       0x0000000000000034       0x35 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-fstatr.o)
+ .comment       0x0000000000000034       0x35 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-isattyr.o)
+ .comment       0x0000000000000034       0x35 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-lseekr.o)
+ .comment       0x0000000000000034       0x35 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-memchr.o)
+ .comment       0x0000000000000034       0x35 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-mlock.o)
+ .comment       0x0000000000000034       0x35 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .comment       0x0000000000000034       0x35 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-readr.o)
+ .comment       0x0000000000000034       0x35 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libg_nano.a(lib_a-reent.o)
+ .comment       0x0000000000000034       0x35 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libnosys.a(close.o)
+ .comment       0x0000000000000034       0x35 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libnosys.a(fstat.o)
+ .comment       0x0000000000000034       0x35 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libnosys.a(isatty.o)
+ .comment       0x0000000000000034       0x35 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libnosys.a(lseek.o)
+ .comment       0x0000000000000034       0x35 /home/pi/tool/xpack-riscv-none-embed-gcc-10.2.0-1.2/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imafc/ilp32f/libnosys.a(read.o)
+
+.debug_frame    0x0000000000000000      0x718
+ .debug_frame   0x0000000000000000       0x48 ./build/./app/main.c.o
+ .debug_frame   0x0000000000000048       0xa4 ./build/./vendor/Debug/debug.c.o
+ .debug_frame   0x00000000000000ec      0x214 ./build/./vendor/Peripheral/src/ch32v20x_usart.c.o
+ .debug_frame   0x0000000000000300       0x30 ./build/./vendor/Peripheral/src/ch32v20x_misc.c.o
+ .debug_frame   0x0000000000000330      0x238 ./build/./vendor/Peripheral/src/ch32v20x_rcc.c.o
+ .debug_frame   0x0000000000000568      0x150 ./build/./vendor/Peripheral/src/ch32v20x_gpio.c.o
+ .debug_frame   0x00000000000006b8       0x30 ./build/./vendor/User/ch32v20x_it.c.o
+ .debug_frame   0x00000000000006e8       0x30 ./build/./vendor/User/system_ch32v20x.c.o
