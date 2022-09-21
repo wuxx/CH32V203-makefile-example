@@ -1,7 +1,7 @@
 # Basic CH32V203 RISCV Makefile project
 
 Requirements:
- - xpack riscv toolchain (riscv-none-embed-)
+ - xpack riscv toolchain (riscv-none-embed-) (https://github.com/xpack-dev-tools/riscv-none-embed-gcc-xpack/releases)
 
 Set up udev rules for WCH link
 ```

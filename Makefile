@@ -28,6 +28,7 @@ $(BUILD_DIR)/$(TARGET_ELF): $(OBJS)
 	$(CC) $(OBJS) -o $@ $(LDFLAGS)
 	$(OBJCOPY) -Oihex   $@ $(BUILD_DIR)/$(TARGET_HEX)
 	$(OBJCOPY) -Obinary $@ $(BUILD_DIR)/$(TARGET_BIN)
+	sz $(BUILD_DIR)/$(TARGET_BIN)
 
 # assembly
 $(BUILD_DIR)/%.S.o: %.S
