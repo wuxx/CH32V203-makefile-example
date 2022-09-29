@@ -76,8 +76,7 @@ void LCD_Writ_Bus(u8 dat)
 	LCD_CS_Clr();
     while(SPI_I2S_GetFlagStatus(SPI2, SPI_I2S_FLAG_TXE) == RESET);
 	SPI_I2S_SendData(SPI2,dat);
-    Delay_Us(10);
-    //__NOP();
+    Delay_Us(1);
 	LCD_CS_Set();
 #endif
 }
@@ -205,7 +204,7 @@ int lcd_gpio_init()
     return 0;
 }
 
-void LCD_Fill(u16 xsta,u16 ysta,u16 xend,u16 yend,u16 color)
+void LCD_Fill_Slow(u16 xsta,u16 ysta,u16 xend,u16 yend,u16 color)
 {
 	u16 i,j;
 	LCD_Address_Set(xsta,ysta,xend-1,yend-1);//ÉèÖÃÏÔÊ¾·¶Î§
@@ -218,6 +217,32 @@ void LCD_Fill(u16 xsta,u16 ysta,u16 xend,u16 yend,u16 color)
 	}
 }
 
+void LCD_Fill_Fast(u16 xsta,u16 ysta,u16 xend,u16 yend,u16 color)
+{
+	u16 i,j;
+	LCD_Address_Set(xsta,ysta,xend-1,yend-1);//ÉèÖÃÏÔÊ¾·¶Î§
+
+	LCD_CS_Clr();
+
+	for(i=ysta;i<yend;i++)
+	{
+		for(j=xsta;j<xend;j++)
+		{
+			//LCD_WR_DATA(color);
+
+            while(SPI_I2S_GetFlagStatus(SPI2, SPI_I2S_FLAG_TXE) == RESET);
+            SPI_I2S_SendData(SPI2,color >> 8);
+            //Delay_Us(1);
+            while(SPI_I2S_GetFlagStatus(SPI2, SPI_I2S_FLAG_TXE) == RESET);
+            SPI_I2S_SendData(SPI2,color);
+		}
+	}
+
+	LCD_CS_Set();
+
+}
+
+#if 1
 /* 182 x 144 x 2 */
 const unsigned char gImage_test[52416] = { /* 0X10,0X10,0X00,0XB6,0X00,0X90,0X01,0X1B, */
 0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,
@@ -3497,7 +3522,7 @@ const unsigned char gImage_test[52416] = { /* 0X10,0X10,0X00,0XB6,0X00,0X90,0X01
 0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,
 0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,0XFF,
 };
-
+#endif
 
 
 
@@ -3706,7 +3731,7 @@ const unsigned char gImage_1[3200] = { /* 0X10,0X10,0X00,0X28,0X00,0X28,0X01,0X1
 };
 #endif
 
-void LCD_ShowPicture(u16 x,u16 y,u16 length,u16 width,const u8 pic[])
+void LCD_ShowPicture_Slow(u16 x,u16 y,u16 length,u16 width,const u8 pic[])
 {
 	u16 i,j;
 	u32 k=0;
@@ -3720,6 +3745,34 @@ void LCD_ShowPicture(u16 x,u16 y,u16 length,u16 width,const u8 pic[])
 			k++;
 		}
 	}
+}
+
+void LCD_ShowPicture_Fast(u16 x,u16 y,u16 length,u16 width,const u8 pic[])
+{
+	u16 i,j;
+	u32 k=0;
+	LCD_Address_Set(x,y,x+length-1,y+width-1);
+
+	LCD_CS_Clr();
+
+	for(i=0;i<length;i++)
+	{
+		for(j=0;j<width;j++)
+		{
+			//LCD_WR_DATA8(pic[k*2]);
+			//LCD_WR_DATA8(pic[k*2+1]);
+
+            while(SPI_I2S_GetFlagStatus(SPI2, SPI_I2S_FLAG_TXE) == RESET);
+            SPI_I2S_SendData(SPI2,pic[k*2]);
+            //Delay_Us(1);
+            while(SPI_I2S_GetFlagStatus(SPI2, SPI_I2S_FLAG_TXE) == RESET);
+            SPI_I2S_SendData(SPI2,pic[k*2+1]);
+
+			k++;
+		}
+	}
+
+	LCD_CS_Set();
 }
 
 int lcd_init()
@@ -3813,30 +3866,16 @@ int lcd_init()
 	LCD_WR_REG(0x29);
 
     Delay_Ms(100);
-    LCD_Fill(0,0,LCD_W,LCD_H,BLUE);
-    Delay_Ms(100);
-    LCD_Fill(0,0,LCD_W,LCD_H,RED);
+    LCD_Fill_Fast(0,0,LCD_W,LCD_H,BLUE);
+    //Delay_Ms(100);
+    LCD_Fill_Fast(0,0,LCD_W,LCD_H,RED);
 
-    LCD_Fill(0,0,LCD_W,LCD_H,BLACK);
-    LCD_Fill(0,0,LCD_W,LCD_H,WHITE);
+    LCD_Fill_Fast(0,0,LCD_W,LCD_H,BLACK);
+    LCD_Fill_Fast(0,0,LCD_W,LCD_H,WHITE);
 
 
-
-#if 0
-    {
-        int i,j;
-
-        for(j=0;j<3;j++)
-        {
-            for(i=0;i<6;i++)
-            {
-                LCD_ShowPicture(40*i,120+j*40,40,40,gImage_1);
-            }
-        }
-    }
-#endif
-
-    LCD_ShowPicture(29,48,182,144,gImage_test);
+    //LCD_ShowPicture_Slow(29,48,182,144,gImage_test);
+    LCD_ShowPicture_Fast(29,48,182,144,gImage_test);
 
     return 0;
 }
